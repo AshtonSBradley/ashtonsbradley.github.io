@@ -1,11 +1,11 @@
 # Quantum Fluids Group
 
-This is the website of our academic research group at Sorbonne University.
+This is the website of our academic research group at University of Otago.
 This website is powered by Jekyll and some Bootstrap, Bootwatch. 
 
 ## Install
 
-[Clone](https://github.com/quentinglorieux/) this repository.
+[Clone](https://github.com/AshtonSBradley/) this repository.
 
 Install Jekyll (see [here](https://jekyllrb.com/docs/installation/)).
 Go to your folder and run `bundle exec jekyll serve`
