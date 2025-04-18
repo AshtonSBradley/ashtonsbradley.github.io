@@ -8,7 +8,7 @@ title: Quantum Fluids Group
 email: ashton.bradley@otago.ac.nz
 description: Website of the Quantum Fluids Group.
 baseurl: ""
-url: "https://ashtonsbradley.github.io"
+url: "https://ashtonsbradley.github.io/quantumfluids"
 permalink: /:categories/:slug
 
 collections:
