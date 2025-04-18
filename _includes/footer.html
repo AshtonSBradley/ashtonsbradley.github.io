@@ -1,0 +1,44 @@
+<div id="footer" class="panel">
+  <div class="panel-footer">
+    <div class="container-fluid">
+      <div class="row">
+       
+		<div class="col-sm-4">
+			<strong> Contact: </strong><br />
+			Department of Physics, Science III <br />
+			University of Otago<br />
+			Dunedin 9054<br />
+			New Zealand
+			(<a href="https://maps.app.goo.gl/AKNRP6dSpe4GFBy38"
+			  >Maps and direction</a
+			>)
+		  </div>
+
+        <div class="col-sm-4">
+          <strong>Funding: </strong><br />
+		  <ul class="no-bullet"> {% for funding in site.data.fundings.grants %} 
+		 <li> - {{funding.name}} <a href="{{funding.link}}"> {{funding.link_text}}</a>  
+          {% endfor %}
+		</ul>
+        </div>
+
+      
+
+		<div class="col-sm-4">
+			<strong>Licence: </strong><br>
+	
+			  2024 - Ashton Bradley <br />
+			  <a href="https://github.com/AshtonSBradley/quantumfluids">Open source </a> with MIT Licence <br />
+			  Made with <a href="https://jekyllrb.com">Jekyll</a><br> 
+			  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html"
+				>Copy
+			  </a>
+			  and modify it for your group
+	
+		  </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+

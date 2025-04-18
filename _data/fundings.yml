@@ -1,0 +1,18 @@
+grants: 
+  - name: Rutherford Discovery Fellowship
+    projectID: 
+    acronym:  
+    link: https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/rutherford-discovery-fellowships/rutherford-discovery-fellowship-recipients/search-rutherford-discovery-fellowship-awards/?Years=2010&SearchTerm=bradley&action_doFundSearch=Search
+    link_text: (RDF)
+
+  - name: Marsden Fund
+    projectID: 
+    acronym: 
+    link: https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/
+    link_text: (Marsden)
+
+  - name: Dodd-Walls Centre
+    projectID: 
+    acronym: 
+    link: https://www.doddwalls.ac.nz
+    link_text: (DWC)

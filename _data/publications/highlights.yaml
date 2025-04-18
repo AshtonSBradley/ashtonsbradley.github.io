@@ -1,0 +1,24 @@
+- title: Regimes of steady-state turbulence in a quantum fluid
+  image: qturb.png
+  description: 
+   We simulate the Gross-Pitaevskii equation to model the development of turbulence in a quantum fluid confined by a cuboid box potential and forced by shaking along one axis. We observe the development of isotropic turbulence from anisotropic forcing for a broad range of forcing amplitudes and characterize the states through their Fourier spectra, vortex distributions, and spatial correlations. 
+
+- title: Thermal decay of planar Jones-Roberts solitons
+  image: jrs.png
+  description: 
+   We develop the theory of Jones-Roberts soliton decay due to thermal transfer between the condensate and the non-condensate reservoir - particle transfer that usually drives condensate growth, and number-conserving energy transfer, which is shown to drive JRS decay. We propose experimental tests for reservoir theory using JRS that are sensitive to the phase space density. 
+    
+- title: Mutual friction and diffusion of two-dimensional quantum vortices
+  image: dipole.png
+  description:
+    In our open systems theory of planar vortex dynamics we identify the energy-damping reservoir interaction in the stochastic projected Gross-Piteavskii theory as the origin of vortex mutual friction. Our theory bridges a large gap from dissipative phenomenolgy to a quantitative picture of mutual friction experiments.
+
+- title: Thermally robust spin correlations between two 85Rb atoms in an optical microtrap
+  image: twoatoms.png
+  description:
+    We use optical tweezers to assemble pairs of trapped 85Rb atoms, and study the spin dynamics of the two-body system in a thermal state. The spin-2 atoms show strong pair correlation between magnetic sublevels on timescales exceeding one second, with measured relative number fluctuations 11.9 ± 0.3 dB below quantum shot noise.
+
+- title: Giant vortex clusters in a two-dimensional quantum fluid
+  image: giant.png
+  description: 
+    We experimentally realize vortex clusters in a planar Bose-Einstein condensate. We demonstrate that the clusters persist for long time periods, maintaining the superfluid system in a high-energy state far from global equilibrium. Our experiments reveal vortex matter at negative absolute temperatures.

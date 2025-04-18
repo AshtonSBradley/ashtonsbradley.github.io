@@ -1,0 +1,487 @@
+---
+---
+
+@import "bootstrap";
+
+img {
+  margin-bottom: 24px;
+  margin-top: 17px;
+  border-radius: 12px;
+}
+
+body {
+  padding-top: 70px;
+  background-color: var(--body-bg);
+  color: var(--body-color) !important;
+  font-weight: 300;
+}
+
+figcaption {
+  text-align: right;
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+/* Top navigation bar */
+
+p.byline {
+  text-align: center;
+  font-size: 18px;
+  line-height: 36px;
+  margin-top: -24px;
+  margin-bottom: 48px;
+}
+
+.pubtit {
+  font-weight: 600;
+}
+
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1200px; /* or 950px */
+  //   margin-bottom: 50px;
+}
+
+.container-fluid #gridid {
+  margin-bottom: 50px;
+}
+
+/* Home, News */
+#newsid p {
+  text-align: left;
+}
+
+#homeidtmp h1 {
+  text-align: center;
+}
+
+#newsid img {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+#homeid {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+#newsid {
+  margin-top: 30px;
+}
+
+/* Team & Publications */
+#team img {
+  margin: 16px 22px 6px 0;
+  border-radius: 10%;
+  box-shadow: 2px 2px 5px #888888;
+}
+#homeid img {
+  margin: 0 0 0 0;
+  border-radius: 5%;
+  box-shadow: 0px 0px 0px #888888;
+}
+#picid img {
+  margin: 6px 3px 60px 6px;
+  border-radius: 1%;
+  box-shadow: 2px 2px 5px #888888;
+}
+#team .row {
+  margin-bottom: 24px;
+}
+
+/* Grid overrides */
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12 {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+/* Grid overrides */
+.col-sm-4 {
+  padding-left: 26px;
+  padding-right: 26px;
+}
+
+/* Carusel */
+
+.carousel {
+  border-radius: 3px 3px 3px 3px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#darkModeToggle {
+  margin-top: 15px;
+  border-width: 0px;
+  background-color: var(--navbar-default-bg);
+}
+
+#darkModeToggle:hover {
+  color: var(--link-color);
+}
+
+#gridid img {
+  margin: 16px 22px 6px 0;
+  border-radius: 10%;
+  box-shadow: 2px 2px 5px #888;
+}
+.post {
+  padding: 0 20px;
+}
+
+.post-wrapper {
+  padding-top: 30px;
+  margin-bottom: 50px;
+}
+
+.post-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.post-meta {
+  font-weight: 500;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+// .post-content p::first-letter {
+//   font-size: 5.5rem;
+//   line-height: 1rem;
+//   color: var(--link-color);
+// }
+
+.post-content {
+  width: 70%;
+  min-width: 400px;
+  padding-right: 30px;
+}
+
+.post-image {
+  width: 30%;
+  min-width: 300px;
+  display: flex;
+}
+
+.post-image img {
+  width: 100%;
+  object-fit: scale-down;
+}
+
+// Perso
+.nav-button {
+  padding: 2px 10px;
+  margin-top: 1px;
+  border-bottom-width: 3px;
+  font-weight: 400;
+  color: var(--link-color);
+}
+
+.year-button {
+  padding: 2px 10px;
+  margin-top: 1px;
+  border-bottom-width: 3px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+.home-pi{
+  color: var(--link-color);
+}
+
+// Utility class
+.smallcaps{
+  font-variant: small-caps
+}
+
+.flex{
+  display: flex;
+}
+.no-bullet{ 
+  list-style-type: none;
+  padding: 1px; 
+  margin: 0;
+  }
+
+
+
+/* Add this CSS to your stylesheet */
+@keyframes fadeInOut {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeOutIn {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+}
+
+.publi_div {
+  animation: fadeInOut 0.4s ease-in-out;
+}
+
+.publi_div.hide {
+  animation: fadeOutIn 0.4s ease-in-out;
+}
+
+
+
+
+// Card
+
+
+article.card-article {
+  min-width: 300px; /* Adjust the width based on your preference */
+  max-width: 380px;
+  box-sizing: border-box;
+}
+
+/* basic article elements styling */
+.card-article h2 {
+  margin: 0 0 18px 0;
+  font-size: 2.2rem;
+  letter-spacing: 0.06em;
+  transition: color 0.3s ease-out;
+  font-variant: small-caps;
+}
+
+figure.article-fig {
+  margin: 0;
+  padding: 0;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.card-article img{
+  width: 102%;
+  object-fit: cover;
+  margin-top: 0px;
+}
+
+.article-body {
+  padding: 24px;
+}
+
+
+
+article a.read-more{
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+article a img{
+  display: block;
+  align-items: center;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+article a .icon {
+  min-width: 24px;
+  width: 24px;
+  height: 24px;
+  margin-left: 5px;
+  opacity: 90%;
+  transition: all 0.3s;
+
+}
+
+/* using the has() relational pseudo selector to update our custom properties */
+article a.read-more:hover {
+  transform: translateX(5px);
+  opacity: 90%;
+  transition: all 0.3s ease-in-out;
+}
+
+article a:hover img{
+  transform: translateY(-5px);
+  opacity: 95%;
+  transition: all 0.3s ease-in-out;
+}
+
+/************************ 
+Generic layout (demo looks)
+**************************/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.articles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 14px;
+  margin-top: 30px;
+  margin-bottom: 10%;
+
+}
+
+.article-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--well-bg);
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 780px){
+
+  .article-wrapper {
+    display: grid;
+    grid-template-columns: 120px 2fr;
+    gap: 2px;
+    width: 400px;
+    height: 120px;
+  }
+
+  .article-body {
+    padding-left: 10;
+  }
+  .article-body p{
+    display: none;
+  }
+  figure {
+    width: 100%;
+    height: 100%;
+    // overflow: hidden;
+  }
+  figure img {
+    margin: 0px;
+    // height: 100%;
+  }
+}
+
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+// Member
+a.a-name{
+  color: var(--body-color);
+}
+
+// Member
+a.a-name:hover{
+  color: var(--link-color);
+}
+
+// Research page
+article.research p::first-letter {
+  font-size: 2.5rem;
+  line-height: 1rem;
+  color: var(--link-color);}
+
+  article.research h2{
+    font-variant: small-caps
+  }
+
+ .research .post-image{
+    width: 310px;
+    // min-width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    }
+  
+  .research .post-image img{
+    object-fit: contain;
+  }
+
+  .img-avatar {
+    width: 35px; /* Adjust the width as needed */
+    height: 35px; /* Adjust the height as needed */
+    border-radius: 50%; /* To make it a circle */
+    overflow: hidden; /* Ensure the image stays within the circle */
+  }
+  
+  .img-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain the aspect ratio and cover the container */
+    margin: 0
+  }
+
+  .text-avatar{
+    font-size: 1.4rem;
+    padding-left: 4px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  // algolia
+
+  .algo-search{
+// max-width: 30px;
+overflow: hidden;
+padding-top: 2px;
+height: 50px;
+display: flex;
+align-items: center;
+
+  }
+
+  .aa-powered-by{
+    font-size: 8px;
+  }
+
+  .aa-powered-by-link{
+    height: 12px;
+    width: 46px;
+  }
+
+  .aa-DetachedSearchButton{
+padding-right: 15px;
+  }
+
+  .aa-Item a:hover{
+    text-decoration: none;
+  }
+
+  .aa-Item{
+    padding: 12px 0;
+  }
+

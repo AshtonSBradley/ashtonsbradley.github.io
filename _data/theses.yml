@@ -1,0 +1,109 @@
+PhD_theses:
+  - name: "Zain Mehdi"
+    year: 2024
+    title: "Superfluid Dissipation and Feedback Cooling in Ultracold Atomic Gases (ANU, Primary Advisor: Stuart Szigeti)"
+    link: "https://dx.doi.org/10.25911/XFRG-QV06"
+  - name: "Rob McDonald"
+    year: 2019
+    title: "Anomalous Dissipation in Bose Gases: Analytic Theory of Energy Damping"
+    link: "https://hdl.handle.net/10523/9601"
+  - name: "Matt Reeves"
+    year: 2017
+    title: "Quantum Analogues of Two-Dimensional Classical Turbulence"
+    link: "https://hdl.handle.net/10523/7528"
+  - name: "Sam Rooney"
+    year: 2015
+    title: "Implementation and Applications of the Stochastic Projected Gross-Pitaevskii Equation"
+    link: "https://hdl.handle.net/10523/5460"
+
+internships:
+  - year: 2024
+    theses:
+      - name: "Luc Hackner (Hons)"
+        title: "Quantum Phase-Space Analysis of Dual Cavity with Negative Radiation Pressure"
+        # link: "Handle: https://hdl.handle.net/10523/12650"
+  - year: 2024
+    theses:
+      - name: "Thomas Fischer (MSc)"
+        title: "Regimes of Quantum Turbulence in a Box-Trap"
+        link: "https://hdl.handle.net/10523/42043"
+  - year: 2022
+    theses:
+      - name: "Jordan Clarke (MSc)"
+        title: "Expansion Dynamics of Vortices in Trapped Planar Bose-Einstein Condensates"
+        link: "https://hdl.handle.net/10523/12650"
+  - year: 2019
+    theses:
+      - name: "Michael Cawte (MSc)"
+        title: "Snell’s Law and Necklace States for Vortex Dipoles in a Quantum Gas"
+        link: "https://hdl.handle.net/10523/9543"
+  - year: 2018
+    theses:
+      - name: "Matthew Denys (Hons)"
+        title: "Triplet Down Conversion using Optical Phase Space Methods"
+        link: "https://doi.org/10.1016/j.optcom.2020.126699"
+  - year: 2017
+    theses:
+      - name: "Peter Barnett (Hons)"
+        title: "Two-Time Correlations of an Energy-Damped Bose-Einstein Condensate"
+        # link: "https://hdl.handle.net/10523/9543"
+  - year: 2016
+    theses:
+      - name: "Zaki Atayee (Hons)"
+        title: "Kohn Mode Damping in a Bose-Einstein Condensate"
+        # link: "https://hdl.handle.net/10523/9543"
+  - year: 2016
+    theses:
+      - name: "Michael Cawte (Hons)"
+        title: "Vortex Dynamics and Spectra Fluctuations in a Superfluid Disk"
+        # link: "https://hdl.handle.net/10523/9543"
+  - year: 2015
+    theses:
+      - name: "Rob McDonald (MSc)"
+        title: "C-Field Theory of Dynamics in One Dimensional Bose Gases: The Kibble-Zurek Mechanism and Bright Soliton Arrest"
+        link: "https://hdl.handle.net/10523/5871"
+  - year: 2013
+    theses:
+      - name: "Matt Reeves (MSc)"
+        title: "Inverse Energy Cascade in Two-Dimensional Quantum Turbulence"
+        link: "https://hdl.handle.net/10523/4526"
+  - year: 2013
+    theses:
+      - name: "Rob McDonald (Hons)"
+        title: "Decay of Persistent Current in a Two-Dimensional Superfluid"
+        # link: "https://hdl.handle.net/10523/2538"
+  - year: 2013
+    theses:
+      - name: "Malcolm Morrison (Hons)"
+        title: "A Quantum Kuramoto Model"
+        # link: "https://hdl.handle.net/10523/2538"
+  - year: 2011
+    theses:
+      - name: "Sam Rooney (MSc)"
+        title: "C-field description of the quasi-equilibrium Bose gas: Persistent currents and kelvon-induced vortex decay"
+        link: "https://hdl.handle.net/10523/2538"
+  - year: 2011
+    theses:
+      - name: "Matt Reeves (Hons)"
+        title: "Two-Dimensional Quantum Turbulence in Stirred Bose-Einstein Condensates"
+        link: "https://doi.org/10.1103/physreva.86.053621"
+  - year: 2010
+    theses:
+      - name: "Kyle Wright (Hons)"
+        title: "Decay of a dark soliton in a warm Bose-Einstein condensate: a variational approach"
+        # link: "https://hdl.handle.net/10523/2538"
+  - year: 2009
+    theses:
+      - name: "Samuel Rooney (Hons)"
+        title: "Single Vortex Dynamics in High Temperature Bose-Einstein Condensates"
+        link: "https://doi.org/10.1103/physreva.81.023630"
+  - year: 2007
+    theses:
+      - name: "Clervie Pennarun (Exchange)"
+        title: "Tripartite entanglement and threshold properties of coupled intracavity down-conversion and sum-frequency generation"
+        link: "https://doi.org/10.1103/physreva.76.063812"
+  - year: 2006
+    theses:
+      - name: "Florent Alzetto (Exchange)"
+        title: "Output of continuous atom laser"
+        # link: "https://hdl.handle.net/10523/2538"

@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<article
+  class="research container-fluid"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-wrapper">
+    <div class="post-main">
+      <div class="post-content" itemprop="articleBody">{{ content }}
+        <h2> Associated publications</h2>
+
+        <div>
+          <ul class="no-bullet">
+            {% for associatedPubli in page.publications %}
+            {% assign publi = site.data.publications.full_list_openalex | where_exp:"item",
+            "item.doi == associatedPubli" | first %}
+            <div class="publi_div" data-year="{{publi.publication_year}}">
+              {% include publication_single.html %}
+            </div>
+            {% endfor %}
+          </ul>
+        </div>
+
+
+      </div>
+
+
+
+      <div class="post-image">
+        <img src="/assets/images/research/{{ page.image }}" />
+        <div>
+          <h2>The team</h2>
+          <ul class="no-bullet">
+            {% for teammember in page.team %}
+            <li>
+              <div class="flex" style="padding-bottom: 10px">
+                {% assign member = site.data.team.members | where_exp:"item",
+                "item.name == teammember" | first%}
+
+                <div class="img-avatar">
+                
+                {% if member.photo %}
+                  <img src="/assets/images/members/{{ member.photo }}"  />
+                  {%else%}
+                  {% assign placeholder_images = site.static_files | where_exp:"file", "file.path contains 'members/placeholders'" %}
+                  {% assign random_index = placeholder_images | sample%}
+                  <img src="{{ site.url }}{{ site.baseurl }}{{ random_index.path }}"  />
+                {%endif%}
+              </div>
+
+                <div class="text-avatar">
+                  {{ member.name }} <br />
+                  {{ member.info }}
+                </div>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>

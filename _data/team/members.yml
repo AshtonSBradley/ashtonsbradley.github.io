@@ -1,0 +1,61 @@
+- name: Ashton Bradley
+  photo: Ashton.jpeg
+  info: Associate Professor
+  status: PI
+  email: ashton.bradley@otago.ac.nz
+  education1: Faculty at Otago since 2016 
+  education2: Rutherford Discovery Fellow 
+  education3: Research Fellow, ARC CoE for Quantum-Atom Optics, University of Queensland 
+  education4: PhD Victoria University with Crispin Gardiner
+  # education5: MSc Auckland with Joe Hope and Matthew Collett
+  # education6: see my full <a href="https://cv.quentinglorieux.fr/" target="_blank">CV</a>
+
+- name: Nils Krause
+  photo: Nils.jpg
+  info: PhD Student, started June 2023
+  status: phd
+  email: nils.krause@otago.ac.nz
+  education1: MSc at Duisburg-Essen
+
+- name: "This could be you !"
+  photo: bottle.webp
+  info: See <a href="/openings">openings</a> for more info
+  status: phd
+  email: 
+  education1:
+
+- name: Cassie Dong
+  photo: cassie.jpg
+  info: MSc Student, started March 2024
+  status: student
+  # email: nils.krause@otago.ac.nz
+  education1: BSc(Hons) at Otago 
+
+- name: Tommy Fischer
+  # photo: Nils.jpg
+  info: MSc Student, started March 2023
+  status: student
+  # email: nils.krause@otago.ac.nz
+  education1: BSc(Hons) at Otago 
+
+- name: Luc Hackner
+  # photo: Nils.jpg
+  info: BSc(Hons) Student, started March 2024
+  status: student
+  # email: nils.krause@otago.ac.nz
+  # education1: BSc(Hons) at Otago 
+
+- name: Philipp Kommer
+  # photo: Nils.jpg
+  info: Bachelor Thesis, Hedelberg, started September 2024
+  status: student
+  # email: nils.krause@otago.ac.nz
+  # education1: BSc(Hons) at Otago
+  # Heidelberg University
+
+- name: Cole Hickey
+  # photo: Nils.jpg
+  info: BSc(Hons) Student, started March 2025
+  status: student
+  # email: nils.krause@otago.ac.nz
+  # education1: BSc(Hons) at Otago 
