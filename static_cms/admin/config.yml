@@ -4,9 +4,9 @@ backend:
 media_folder: 'assets/images' # Media files will be stored in the repo under images/uploads
 media_library:
   folder_support : true
-site_url: https://lab.quentinglorieux.fr
-display_url: https://lab.quentinglorieux.fr
-logo_url: https://lab.quentinglorieux.fr/assets/images/logos/01-logo-lkb.webp
+site_url: https://ashtonsbradley.github.io/quantumfluids
+display_url: https://ashtonsbradley.github.io/quantumfluids
+logo_url: https://ashtonsbradley.github.io/quantumfluids/assets/images/logos/01-logo-lkb.webp
 
 collections:
 - name: 'news' # Used in routes, e.g., /admin/collections/blog
