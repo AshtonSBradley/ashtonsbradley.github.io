@@ -5,8 +5,8 @@ media_folder: 'assets/images' # Media files will be stored in the repo under ima
 media_library:
   folder_support : true
 site_url: https://ashtonsbradley.github.io
-display_url: https://ashtonsbradley.github.io/quantumfluids
-logo_url: https://ashtonsbradley.github.io/quantumfluids/assets/images/logos/01-logo-lkb.webp
+display_url: https://ashtonsbradley.github.io
+logo_url: https://ashtonsbradley.github.io/assets/images/logos/01-logo-lkb.webp
 
 collections:
 - name: 'news' # Used in routes, e.g., /admin/collections/blog
