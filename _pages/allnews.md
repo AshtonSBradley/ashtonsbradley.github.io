@@ -3,7 +3,7 @@ title: "News"
 excerpt: "QF Group @ Otago"
 layout: textlay
 sitemap: false
-permalink: /allnews
+permalink: /allnews/
 ---
 
 # All News

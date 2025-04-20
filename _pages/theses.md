@@ -2,7 +2,7 @@
 title: "Theses of the group"
 layout: default
 sitemap: false
-permalink: /theses
+permalink: /theses/
 ---
 
 
