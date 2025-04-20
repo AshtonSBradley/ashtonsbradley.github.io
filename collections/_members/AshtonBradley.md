@@ -7,7 +7,7 @@ position: Associate Professor
 email: ashton.bradley@otago.ac.nz
 email_title: Contact
 phone: +64.21.02738813
-website: ashtonsbradley.github.io/quantumfluids
+website: ashtonsbradley.github.io
 # website_title: Web (Website title override)
 
 # Social links
