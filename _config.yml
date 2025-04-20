@@ -10,7 +10,6 @@ description: Website of the Quantum Fluids Group.
 baseurl: 
 url: https://ashtonsbradley-github-io-git-main-ashtons-projects-514014af.vercel.app
 permalink: /:categories/:slug
-relative_permalinks: false
 
 collections:
   projects:
