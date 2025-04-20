@@ -21,7 +21,7 @@ permalink: /allnews/
                 {{ article.content | strip_html | truncatewords: 40 }}
             </div>
 
-            <a href="{{ article.url }}">
+            <a href="{{ article.url }}/">
                 <div class="btn-home" style="margin-top: 2px; margin-bottom: 15px; font-size: 1.4rem;">
                     <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
                     Read more

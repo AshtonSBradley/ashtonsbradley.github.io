@@ -76,7 +76,7 @@ defaults:
       category: "research"
       layout: "research_topic"
   - scope:
-      path: "_news/" # an empty string here means all files in the project
+      path: "_news" # an empty string here means all files in the project
     values:
       category: "news"
       layout: "post"
