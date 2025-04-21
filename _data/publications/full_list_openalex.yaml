@@ -6,12 +6,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.111.023308
-    display: Physical review. A/Physical review, A 111 2 (2025).
+    display: Physical review A 111 2 (2025).
   doi: https://doi.org/10.1103/physreva.111.023308
   is_oa: false
   oa_url: https://arxiv.org/abs/2409.03184
   publication_year: 2025
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '111'
@@ -27,12 +27,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.110.053302
-    display: Physical review. A/Physical review, A 110 5 (2024).
+    display: Physical review A 110 5 (2024).
   doi: https://doi.org/10.1103/physreva.110.053302
   is_oa: true
   oa_url: http://arxiv.org/pdf/2408.06532
   publication_year: 2024
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '110'
@@ -77,12 +77,12 @@
     orcid: https://orcid.org/0000-0002-2811-9797
   link:
     url: https://doi.org/10.1103/physreva.107.033314
-    display: Physical review. A/Physical review, A 107 3 (2023).
+    display: Physical review A 107 3 (2023).
   doi: https://doi.org/10.1103/physreva.107.033314
   is_oa: true
   oa_url: https://arxiv.org/pdf/2205.14654
   publication_year: 2023
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '107'
@@ -102,12 +102,12 @@
     orcid: https://orcid.org/0000-0002-0442-7867
   link:
     url: https://doi.org/10.1103/physreva.106.053316
-    display: Physical review. A/Physical review, A 106 5 (2022).
+    display: Physical review A 106 5 (2022).
   doi: https://doi.org/10.1103/physreva.106.053316
   is_oa: true
   oa_url: http://arxiv.org/pdf/2112.09280
   publication_year: 2022
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '106'
@@ -127,12 +127,12 @@
     orcid: https://orcid.org/0000-0002-7009-5813
   link:
     url: https://doi.org/10.1103/physreva.106.043322
-    display: Physical review. A/Physical review, A 106 4 (2022).
+    display: Physical review A 106 4 (2022).
   doi: https://doi.org/10.1103/physreva.106.043322
   is_oa: true
   oa_url: http://arxiv.org/pdf/2112.04012
   publication_year: 2022
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '106'
@@ -488,12 +488,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.95.063607
-    display: Physical review. A/Physical review, A 95 6 (2017).
+    display: Physical review A 95 6 (2017).
   doi: https://doi.org/10.1103/physreva.95.063607
   is_oa: true
   oa_url: https://arxiv.org/pdf/1703.06607
   publication_year: 2017
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '95'
@@ -516,12 +516,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.94.023602
-    display: Physical review. A/Physical review, A 94 2 (2016).
+    display: Physical review A 94 2 (2016).
   doi: https://doi.org/10.1103/physreva.94.023602
   is_oa: true
   oa_url: http://arxiv.org/pdf/1512.05517
   publication_year: 2016
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '94'
@@ -544,12 +544,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.93.063603
-    display: Physical review. A/Physical review, A 93 6 (2016).
+    display: Physical review A 93 6 (2016).
   doi: https://doi.org/10.1103/physreva.93.063603
   is_oa: true
   oa_url: http://arxiv.org/pdf/1602.03243
   publication_year: 2016
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '93'
@@ -566,12 +566,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.93.063604
-    display: Physical review. A/Physical review, A 93 6 (2016).
+    display: Physical review A 93 6 (2016).
   doi: https://doi.org/10.1103/physreva.93.063604
   is_oa: true
   oa_url: https://arxiv.org/pdf/1604.01487
   publication_year: 2016
-  journal: Physical review. A/Physical review, A
+  journal: Physical review A
   journal_abbreviation: ''
   biblio:
     volume: '93'
@@ -700,7 +700,7 @@
     orcid: https://orcid.org/0000-0001-8534-8564
   - name: T. P. Billam
     orcid: https://orcid.org/0000-0003-2456-6204
-  - name: Bennett Anderson
+  - name: B. P. Anderson
     orcid: null
   - name: A. S. Bradley
     orcid: https://orcid.org/0000-0002-3027-3195
@@ -855,7 +855,7 @@
     orcid: https://orcid.org/0000-0003-2456-6204
   - name: Matthew T. Reeves
     orcid: https://orcid.org/0000-0001-8534-8564
-  - name: Bennett Anderson
+  - name: B. P. Anderson
     orcid: null
   - name: A. S. Bradley
     orcid: https://orcid.org/0000-0002-3027-3195
