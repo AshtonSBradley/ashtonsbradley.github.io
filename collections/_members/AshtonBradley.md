@@ -76,7 +76,7 @@ details:
         quote: > 
             Department of Physics at the University of Otago
         description:  # this will include new lines to allow paragraphs
-          I started an NZFRST Postdoctoral fellowship at Otago in 2008.
+          I started a New Zealand Foundation for Research, Science, and Technology Postdoctoral fellowship at Otago in 2008. I viewed this as a tremendous opportunity to work with 
       - layout : left 
         title: University of Queensland
         sub_title: Postdoc
@@ -98,7 +98,7 @@ details:
         quote: > 
             Crispin Gardiner's Group at the Victoria University of Wellington
         description:  # this will include new lines to allow paragraphs
-          In 2001 I moved to Wellington to start my PhD research with Crispin Gardiner on several topics in the field of ultracold gases, including anomalous segregation, and rotating Bose-Einstein condensation. During this time I developed the first working simulations of the Stochastic Projected Gross-Piteaveskii equation. 
+          In 2001 I moved to Wellington to start my PhD research with Crispin Gardiner on several topics in the field of ultracold gases, including anomalous segregation, and rotating Bose-Einstein condensation. During this time I developed the first working simulations of the Stochastic Projected Gross-Piteaveskii equation, and started collaborations with Murray Olsen and Blair Blakie.
       - layout : left 
         title: University of Auckland
         sub_title: MSc thesis
