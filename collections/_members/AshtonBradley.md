@@ -26,7 +26,7 @@ googlescholar_username: fIjUjckAAAAJ&hl
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/images/members/Ashton.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  After completing a MSc at the University of Auckland in 2001 I started PhD study in the group of Crispin Gardiner at the University of Victoria, finishing in 2005 (awarded 2006).
+  After completing a MSc at the University of Auckland in 2001 I started PhD study in the group of Crispin Gardiner at the University of Victoria, finishing in 2005.
 
   In 2005 I took up a post-doctoral fellowship at the University of Queensland in the Center of Excellence for Quantum-Atom Optics in the group of Matthew Davis. In 2008 I moved to the University of Otago as a research fellow supported by the New Zealand Foundation for Research, Science, and Technology. In 2010 I was awarded a Rutherford Discovery Fellowship and Marsden Fast Start Grant. In 2016 I transitioned to a permanent faculty position at the University of Otago.
 
