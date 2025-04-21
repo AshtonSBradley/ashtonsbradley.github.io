@@ -114,14 +114,14 @@
 #   status: bsc
 #   pdf:
 
-- name: Murray Olsen, Dodd-Walls and Quantum Science Otago fellow 2017-
+- name: Murray Olsen, Dodd-Walls and Quantum Science Otago fellow 2018
   status: visitor
 
-- name: Stuart Szigeti, ARC Endeavour Fellow, 2017 to 2019
-  status: visitor 
-
-- name: Chao-Fei Liu, CSC Research Fellow, 2017 to 2019
-  status: visitor 
-
-- name: Ying-Yan Li, CSC Research Fellow, 2017 to 2019
+- name: Ying-Yan Li, CSC Research Fellow, 2018
   status: visitor
+  
+- name: Stuart Szigeti, ARC Endeavour Fellow, 2017
+  status: visitor 
+
+- name: Chao-Fei Liu, CSC Research Fellow, 2016
+  status: visitor 
