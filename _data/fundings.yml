@@ -1,16 +1,16 @@
 grants: 
-  - name: Marsden Fund
-    projectID: 
-    acronym: 
-    link: https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/
-    link_text: (Marsden)
-
   - name: Dodd-Walls Centre
     projectID: 
     acronym: 
     link: https://www.doddwalls.ac.nz
     link_text: (DWC)
 
+  - name: Marsden Fund
+    projectID: 
+    acronym: 
+    link: https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/
+    link_text: (Marsden)
+    
   - name: Rutherford Discovery Fellowship
     projectID: 
     acronym:  
