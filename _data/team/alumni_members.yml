@@ -1,7 +1,7 @@
 - name: Zain Medhi
   # tagline: 
   photo: Zain.png
-  duration: PhD ANU 2021 to 2023
+  duration: PhD ANU 2020 to 2023
   thesis: 
   email: 
   now_at: Australian National University
@@ -30,6 +30,30 @@
   email: 
   now_at: Dot Loves Data
 
+- name: Sukla Pal
+  # tagline: 
+  photo: sukla.jpeg
+  duration: Postdoc 2022-2023 
+  thesis: 
+  email: 
+  now_at: Trento
+
+- name: Kishor Kumar
+  # tagline: 
+  photo: kishor.jpeg
+  duration: Postdoc 2019-2021 
+  thesis: 
+  email: 
+  now_at: 
+
+- name: Xiaoquan Yu
+  # tagline: 
+  photo: xiaoquan.jpeg
+  duration: Postdoc 2015-2017
+  thesis: 
+  email: 
+  now_at: Beijing
+
 - name: Tom Billam
   # tagline: 
   photo: billam.jpeg
@@ -38,29 +62,7 @@
   email: 
   now_at: Newcastle University
 
-- name: Kishor Kumar
-  # tagline: 
-  photo: kishor.jpeg
-  duration: Postdoc  
-  thesis: 
-  email: 
-  now_at: ...
 
-- name: Sukla Pal
-  # tagline: 
-  photo: sukla.jpeg
-  duration: Postdoc  
-  thesis: 
-  email: 
-  now_at: Trento
-
-- name: Xiaoquan Yu
-  # tagline: 
-  photo: xiaoquan.jpeg
-  duration: Postdoc  
-  thesis: 
-  email: 
-  now_at: Beijing
 
 
   

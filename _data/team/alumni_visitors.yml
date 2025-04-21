@@ -1,82 +1,118 @@
-- name: Tommy Fischer, MSc, Spring 2018
+- name: Tommy Fischer, MSc Otago 2024
   status: master
   pdf:
 
-- name: Daniel Foshee, MSc (U Arizona), Spring 2018
+- name: Daniel Foshee, MSc Arizona 2023
   status: master
   pdf:
 
-- name: Eric Xu, MSc (U Arizona), Spring 2018
+- name: Eric Xu, MSc Otago 2022
   status: master
   pdf:
 
-- name: Jordan Clarke, MSc (U Arizona), Spring 2018
+- name: Jordan Clarke, MSc Otago 2021
   status: master
   pdf:
 
-- name: Rob McDonald, MSc (U Arizona), Spring 2018
+- name: Michael Cawte, MSc Otago 2018 
   status: master
   pdf:
 
-- name: Matt Reeves, MSc (U Arizona), Spring 2018
+- name: Rob McDonald, MSc Otago 2015 
   status: master
   pdf:
 
-- name: Sam Rooney, MSc (U Arizona), Spring 2018
+- name: Matt Reeves, MSc Otago 2013
   status: master
   pdf:
 
-- name: Anna Petersen, BSc(Hons), Summer 2017
-  status: bsc
+- name: Sam Rooney, MSc Otago 2011
+  status: master
   pdf:
-  
-- name: Cole Hickey, BSc(Hons), Summer 2017
+
+- name: Luc Hackner, BSc(Hons) 2024
   status: bsc
   pdf:
 
-- name: Cassie Dong, BSc(Hons), Summer 2017
+- name: Cassie Dong, BSc(Hons) 2023
   status: bsc
   pdf:
 
-- name: Daniel Tan, BSc(Hons), Summer 2017
+- name: Thomas Fischer, BSc(Hons) 2022
   status: bsc
   pdf:
 
-- name: Tim Copland, BSc(Hons), Summer 2017
+- name: Eric Xu, BSc(Hons) 2019
   status: bsc
   pdf:
 
-- name: Eric Xu, BSc(Hons), Summer 2017
+- name: Matthew Denys, BSc(Hons) 2018
   status: bsc
   pdf:
 
-- name: Briana Nally, BSc(Hons), Summer 2017
+- name: Peter Barnett, BSc(Hons) 2017
   status: bsc
   pdf:
 
-- name: Matthew Denys, BSc(Hons), Summer 2017
+- name: Fradom Atayee, BSc(Hons) 2016
   status: bsc
   pdf:
 
-- name: Rob McDonald, BSc(Hons), Summer 2017
+- name: Michael Cawte, BSc(Hons) 2016
   status: bsc
   pdf:
 
-- name: Sam Rooney, BSc(Hons), Summer 2017
+- name: Rob McDonald, BSc(Hons) 2013
   status: bsc
   pdf:
 
-- name: Matt Reeves, BSc(Hons), Summer 2017
+- name: Malcolm Morrison, BSc(Hons) 2013
   status: bsc
   pdf:
 
-- name: Clervie Pennarun, BSc(Hons), Summer 2017
+- name: Matthew Reeves, BSc(Hons) 2011
   status: bsc
   pdf:
 
-- name: Florent Alzetto, BSc(Hons), Summer 2017
+- name: Kyle Wright, BSc(Hons) 2010
   status: bsc
   pdf:
+
+- name: Sam Rooney, BSc(Hons) 2009
+  status: bsc
+  pdf:
+
+# - name: Cole Hickey, Summer 2017
+#   status: bsc
+#   pdf:
+
+# - name: Anna Petersen, Summer 2017
+#   status: bsc
+#   pdf:
+
+# - name: Daniel Tan, Summer 2017
+#   status: bsc
+#   pdf:
+
+# - name: Tim Copland, BSc(Hons), Summer 2017
+#   status: bsc
+#   pdf:
+
+# - name: Eric Xu, BSc(Hons), Summer 2017
+#   status: bsc
+#   pdf:
+
+# - name: Briana Nally, BSc(Hons), Summer 2017
+#   status: bsc
+#   pdf:
+
+# - name: Clervie Pennarun, BSc(Hons), Summer 2017
+#   status: bsc
+#   pdf:
+
+# - name: Florent Alzetto, BSc(Hons), Summer 2017
+#   status: bsc
+#   pdf:
 
 - name: Murray Olsen, Dodd-Walls and Quantum Science Otago fellow 2017-
   status: visitor
