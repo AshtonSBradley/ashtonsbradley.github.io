@@ -6,9 +6,9 @@ backend:
   repo: AshtonSBradley/quantumfluids
   branch: main
 media_folder: 'assets/images' # Media files will be stored in the repo under images/uploads
-site_url: https://ashtonbradley.nz
+site_url: https://ashtonsbradley-github-io-git-main-ashtons-projects-514014af.vercel.app
 display_url: https://ashtonbradley.nz
-logo_url: https://ashtonbradley.nz/assets/images/logos/01-logo-lkb.webp
+logo_url: https://ashtonsbradley-github-io-git-main-ashtons-projects-514014af.vercel.app/01-logo-lkb.webp
 
 collections:
 - name: 'news' # Used in routes, e.g., /admin/collections/blog
