@@ -11,10 +11,10 @@ website: ashtonbradley.nz
 # website_title: Web (Website title override)
 
 # Social links
-# twitter_username: quentinglorieux
+# twitter_username: asb
 github_username:  ashtonsbradley
-# linkedin_username: quentinglorieux
-# youtube_username: jekyll
+# linkedin_username: asb
+# youtube_username: asb
 orcid_username: 0000-0002-3027-3195
 googlescholar_username: fIjUjckAAAAJ&hl
 # additional_links:
