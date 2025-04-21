@@ -1,5 +1,5 @@
 ---
-# title: Quentin Glorieux
+# title: Ashton Bradley
 
 # Personal info
 name: Ashton Bradley
@@ -76,7 +76,7 @@ details:
         quote: > 
             Department of Physics at the University of Otago
         description:  # this will include new lines to allow paragraphs
-          I started a New Zealand Foundation for Research, Science, and Technology Postdoctoral fellowship at Otago in 2008. I viewed this as a tremendous opportunity to work with 
+          I started a New Zealand Foundation for Research, Science, and Technology Postdoctoral fellowship at Otago in 2008. 
       - layout : left 
         title: University of Queensland
         sub_title: Postdoc
