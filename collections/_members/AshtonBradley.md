@@ -7,7 +7,7 @@ position: Associate Professor
 email: ashton.bradley@otago.ac.nz
 email_title: Contact
 phone: +64.21.02738813
-website: ashtonsbradley.github.io
+website: ashtonbradley.nz
 # website_title: Web (Website title override)
 
 # Social links
@@ -29,7 +29,6 @@ about_content: | # this will include new lines to allow paragraphs
   After completing a MSc at the University of Auckland in 2001 I started PhD study in the group of Crispin Gardiner at the University of Victoria, finishing in 2005 (awarded 2006).
 
   In 2005 I took up a post-doctoral fellowship at the University of Queensland in the Center of Excellence for Quantum-Atom Optics in the group of Matthew Davis. In 2008 I moved to the University of Otago as a research fellow supported by the New Zealand Foundation for Research, Science, and Technology. In 2010 I was awarded a Rutherford Discovery Fellowship and Marsden Fast Start Grant. In 2016 I transitioned to a permanent faculty position at the University of Otago.
-
 
   #### Fellowships and Awards
   - 2011-2015 Rutherford Discovery Fellowship
@@ -86,7 +85,7 @@ details:
         quote: > 
             Matthew Davis' group at the University of Queensland.
         description:  # this will include new lines to allow paragraphs
-          On completion of my PhD studies I was fortunate to have an opportunity to work at the University of Queensland in the ARC Center of Excellence for Quantum-Atom Optics, joining the group of Matt Davis. 
+          On completion of my PhD studies I took up a postoctoral position at the University of Queensland in the ARC Center of Excellence for Quantum-Atom Optics, joining the group of Matt Davis. 
           
           In addition to working with Matt Davis on the Kibble-Zurek mechanism of vortex formation in BEC, I also had fruitful collaborations with Murray Olsen and Margaret Reid on quantum entanglement. 
 
@@ -99,7 +98,7 @@ details:
         quote: > 
             Crispin Gardiner's Group at the Victoria University of Wellington
         description:  # this will include new lines to allow paragraphs
-          In 2001 I moved to Wellington to start my PhD research with Crispin Gardiner on several topics in the field of ultracold gases, including anomalous segregation, and rotating Bose-Einstein condensation. During this time I developed the first working simulations of the Stochastic Projected Gross-Piteaveskii equation. I was also fortunate to interact with Piyush Jain, Silke Weinfurtner, and Matt Visser.
+          In 2001 I moved to Wellington to start my PhD research with Crispin Gardiner on several topics in the field of ultracold gases, including anomalous segregation, and rotating Bose-Einstein condensation. During this time I developed the first working simulations of the Stochastic Projected Gross-Piteaveskii equation. 
       - layout : left 
         title: University of Auckland
         sub_title: MSc thesis
