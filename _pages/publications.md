@@ -9,7 +9,7 @@ permalink: /publications/
 # Publications
 
 The <span> <a href="#full-list-of-publications"> <button  class='btn nav-button'> full list </button></a> </span>  is at the end of this page. <br>
-<!-- All papers are available on Open access on **[arXiv](https://arxiv.org/a/glorieux_q_1.html)**. -->
+Open access papers are available on **[arXiv](http://arxiv.org/a/bradley_a_1)**.
 
 ## Group highlights
 
