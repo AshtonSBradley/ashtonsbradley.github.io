@@ -5,10 +5,10 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-We explore dynamics and statistical mechanics of atomic **Bose-Einstein condensates** (BEC) and **Quantum Fluids of Light** (QFL).
+We explore dynamics and statistical mechanics of quantum fluids.
 <br>
 
-The intersection of ultracold atoms and quantum optics is a rich playground featuring pristine experimental control and many novel quantum and nonlinear phenomena are under active investigation. Ultracold gas experiments afford a rich interplay between many body interactions, geometry, and optical manipulations that continues to yield new physics. Recently developed optical platforms manifesting quantum fluid effects such as superfluidity have opened up rich new fields for exploration.  
+The intersection of ultracold atoms and quantum optics features pristine experimental control over quantum physics and deep investigation of nonlinear many-body phenomena. Ultracold gas experiments afford a rich interplay between interactions, geometry, and optical manipulations that continues to yield new surprising physics. Recently developed optical platforms manifesting quantum fluid effects such as superfluidity have opened up new avenues for exploration.  
 <br>
 
 <!-- Carousel -->
@@ -16,8 +16,7 @@ The intersection of ultracold atoms and quantum optics is a rich playground feat
     {% include carousel.html %}
 </div>
 
-We are a quantum theory group at the [University of Otago](http://physics.otago.ac.nz) 
-interested in a quantum fluid dynamics, vortices and turbulence, finite temperature superfluids, and entanglement in optical and optomechanical systems. <br>
+We are a quantum theory group at the [University of Otago](http://physics.otago.ac.nz). <br>
 We use methods of quantum field theory, quantum optics, and computational physics to study quantum many body phenomena, with a keen eye on experimental developments.
 
 **Job Offers:**
