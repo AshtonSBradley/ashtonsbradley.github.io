@@ -119,8 +119,8 @@ This file contains the markup for the job page.
 There are 4 collections:
 - members: for detailled pages of each member
 - news: for the news of the homepage
-- research: to list the research topics
-- projects: to present the recent research projects
+- research: list the research topics
+- projects: present the recent research projects
 
 ### Member collection
 Optionnaly you can add you personnal homepage to the site.
