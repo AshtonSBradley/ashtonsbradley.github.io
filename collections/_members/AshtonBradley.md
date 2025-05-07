@@ -98,14 +98,14 @@ details:
         quote: > 
             Crispin Gardiner's Group at the Victoria University of Wellington
         description:  # this will include new lines to allow paragraphs
-          In 2001 I moved to Wellington to start my PhD research with Crispin Gardiner on several topics in the field of ultracold gases, including anomalous segregation, and rotating Bose-Einstein condensation. During this time I developed the first working simulations of the Stochastic Projected Gross-Piteaveskii equation, and started collaborations with Murray Olsen and Blair Blakie.
+          In 2001 I moved to Wellington to start my PhD research with Crispin Gardiner on several topics in the field of ultracold gases, including anomalous segregation, and rotating Bose-Einstein condensation. During this time I developed the first working simulations of the Stochastic Projected Gross-Piteavskii equation, and started collaborations with Murray Olsen and Blair Blakie.
       - layout : left 
         title: University of Auckland
         sub_title: MSc thesis
         caption: 2000 
         link: 
         quote: > 
-            Joe Hope and Matthew Collet at the University of Auckland
+            Joe Hope and Matthew Collett at the University of Auckland
         description:  # this will include new lines to allow paragraphs
           My interest in laser physics led me to a research project on non-Markovian atom lasers - the kind of laser that typically happens when massive bosons are playing the role of photons.
 
