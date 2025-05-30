@@ -23,7 +23,7 @@ googlescholar_username: fIjUjckAAAAJ&hl
 #   url: Link url (eg. https://google.com)
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: Short Bio
 about_profile_image: assets/images/members/Ashton.jpeg
 about_content: | # this will include new lines to allow paragraphs
   After completing a MSc at the University of Auckland in 2001 I started PhD study in the group of Crispin Gardiner at the University of Victoria, finishing my PhD study in 2005.
