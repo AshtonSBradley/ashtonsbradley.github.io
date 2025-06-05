@@ -62,5 +62,15 @@
 
 - name: Brian Anderson
 # photo: B.jpg
-  info: Wyant College of Optical Sciences
+  info: <a href="https://www.optics.arizona.edu/person/brian-p-anderson">Wyant College of Optical Sciences</a>
   status: collab 
+
+- name: Tyler Neely
+# photo: B.jpg
+  info: <a href="https://www.uq-bec.org/">University of Queensland</a>
+  status: collab
+
+- name: Quentin Glorieux
+# photo: B.jpg
+  info: <a href="https://www.quentinglorieux.fr/">Sorbonne Université - LKB</a>
+  status: collab
