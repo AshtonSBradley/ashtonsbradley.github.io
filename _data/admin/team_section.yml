@@ -14,3 +14,7 @@
 - title: "Masters and Honours Students"
   status: "student"
   order: 3
+
+- title: "Collaborators"
+  status: "collab"
+  order: 4
