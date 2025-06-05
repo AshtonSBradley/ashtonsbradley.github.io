@@ -62,5 +62,5 @@
 
 - name: Brian Anderson
 # photo: B.jpg
-info: Wyant College of Optical Sciences
-status: collab 
+  info: Wyant College of Optical Sciences
+  status: collab 
