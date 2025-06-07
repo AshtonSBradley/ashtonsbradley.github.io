@@ -1,3 +1,5 @@
+
+
 - name: Tommy Fischer, MSc Otago 2024
   status: master
   pdf:
@@ -7,6 +9,7 @@
   pdf:
 
 - name: Eric Xu, MSc Otago 2022
+
   status: master
   pdf:
 
@@ -28,6 +31,10 @@
 
 - name: Sam Rooney, MSc Otago 2011
   status: master
+  pdf:
+
+- name: Phillip Kommer, BSc(Hons) Heidelberg 2024
+  status: bsc
   pdf:
 
 - name: Luc Hackner, BSc(Hons) 2024
