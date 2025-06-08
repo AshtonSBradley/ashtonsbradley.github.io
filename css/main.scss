@@ -178,7 +178,8 @@ p.byline {
 
 .post-image img {
   width: 100%;
-  object-fit: scale-down;
+  height: auto; /* Ensures the aspect ratio is preserved */
+  object-fit: contain;
 }
 
 // Perso
