@@ -165,18 +165,20 @@ p.byline {
 
 .post-content {
   width: 70%;
-  min-width: 400px;
+  min-width: 400px; 
   padding-right: 30px;
 }
 
 .post-image {
   width: 30%;
+  height: auto; // Maintain aspect ratio
   min-width: 300px;
   display: flex;
 }
 
 .post-image img {
   width: 100%;
+  height: auto; // Maintain aspect ratio
   object-fit: scale-down;
 }
 
