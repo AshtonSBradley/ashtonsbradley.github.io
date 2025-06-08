@@ -425,6 +425,7 @@ article.research p::first-letter {
     width: 310px;
     // min-width: 100px;
     display: flex;
+    height: auto; // Maintain aspect ratio
     flex-direction: column;
     justify-content: start;
     }
