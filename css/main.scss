@@ -171,14 +171,13 @@ p.byline {
 
 .post-image {
   width: 30%;
-  height: auto; // Maintain aspect ratio
   min-width: 300px;
   display: flex;
+  aspect-ratio: auto; /* Ensures the aspect ratio is preserved */
 }
 
 .post-image img {
   width: 100%;
-  height: auto; // Maintain aspect ratio
   object-fit: scale-down;
 }
 
