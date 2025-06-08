@@ -173,13 +173,11 @@ p.byline {
   width: 30%;
   min-width: 300px;
   display: flex;
-  aspect-ratio: auto; /* Ensures the aspect ratio is preserved */
 }
 
 .post-image img {
   width: 100%;
-  height: auto; /* Ensures the aspect ratio is preserved */
-  object-fit: contain;
+  object-fit: scale-down;
 }
 
 // Perso
