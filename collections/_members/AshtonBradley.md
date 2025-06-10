@@ -107,7 +107,7 @@ details:
         quote: > 
             Joe Hope and Matthew Collett at the University of Auckland
         description:  # this will include new lines to allow paragraphs
-          My interest in laser physics led me to a research project on non-Markovian atom lasers - the kind of laser that typically happens when massive bosons are playing the role of photons.
+          My interest in laser physics led me to a research project on non-Markovian atom lasers - the kind of laser that typically happens when massive composite bosons are playing the role of photons.
 
   # - title: Teaching
   #   layout: list
