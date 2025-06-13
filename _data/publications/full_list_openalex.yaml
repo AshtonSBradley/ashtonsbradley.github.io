@@ -11,17 +11,17 @@
   - name: Quentin Glorieux
     orcid: null    
   link:
-    url: https://arxiv.org/abs/2501.08383
-    display: Physical Review Letters
+    url: https://doi.org/10.1103/PhysRevLett.134.233401
+    display: Physical Review Letters 134 2 (2025).
   doi: 
-  is_oa: true
+  is_oa: false
   oa_url: https://arxiv.org/abs/2501.08383
   publication_year: 2025
   journal: Physical Review Letters
   journal_abbreviation: ''
   biblio:
-    volume:  ''
-    issue:  ''
+    volume:  '134'
+    issue:  '2'
     first_page: null
     last_page: null
 
