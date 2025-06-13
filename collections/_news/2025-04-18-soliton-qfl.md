@@ -2,7 +2,7 @@
 layout: post
 title: Observation of Jones-Roberts solitons in a paraxial quantum fluid of light
 slug: jrs-qfl
-image: jrs_vcorr.png
+image: jrs_v.png
 ---
 Our recent work on Jones-Roberts solitons in paraxial fluids of light has appeared in **Physical Review Letters** highlighted as an Editor's Suggestion.
 
