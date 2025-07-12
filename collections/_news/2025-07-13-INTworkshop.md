@@ -4,7 +4,6 @@ title: Cold Atoms to Neutron Star Mergers
 slug: int-uvic
 image: vortnuc.png
 ---
-__Compressible Turbulence: From Cold Atoms to Neutron Star Mergers__
 I attended the first two weeks of the residential programme at the Institute for Nuclear Theory at the University of Washington
 - [Compressible Turbulence: From Cold Atoms to Neutron Star Mergers
 ](https://www.int.washington.edu/index.php/programs-and-workshops/25-2a)
