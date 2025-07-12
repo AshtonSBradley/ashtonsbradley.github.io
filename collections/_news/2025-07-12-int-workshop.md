@@ -2,7 +2,7 @@
 layout: post
 title: Compressible Turbulence: From Cold Atoms to Neutron Star Mergers
 slug: int-uvic
-image: vortnuc.png
+image: int-dipole.png
 ---
 I attended the first two weeks of the residential programme at the Institute for Nuclear Theory at the University of Washington
 
