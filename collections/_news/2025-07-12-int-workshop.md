@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Cold Atoms to Neutron Star Mergers
+title: Compressible Turbulence: From Cold Atoms to Neutron Star Mergers
 slug: int-uvic
 image: vortnuc.png
 ---
