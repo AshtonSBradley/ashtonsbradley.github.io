@@ -1,6 +1,6 @@
 ---
 layout: post
-title: INT workshop on compressible turbulence
+title: Cold Atoms to Neutron Star Mergers
 slug: int-uvic
 image: vortnuc.png
 ---
