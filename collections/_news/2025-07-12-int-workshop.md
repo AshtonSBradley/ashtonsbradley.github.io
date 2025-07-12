@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Compressible Turbulence --- From Cold Atoms to Neutron Star Mergers
+title: Compressible Turbulence - From Cold Atoms to Neutron Star Mergers
 slug: int-uvic
-image: int-dipole.png
+image: vortnuc.png
 ---
 I attended the first two weeks of the residential programme at the Institute for Nuclear Theory at the University of Washington
 
@@ -16,3 +16,5 @@ It was a wonderful opportunity to visit Seattle, make new connections at the INT
 - [Velocity correlations of vortices and rarefaction pulses in compressible planar quantum fluids](http://arxiv.org/abs/2502.08930).
 
 I also visited the [University of Victoria](https://www.uvic.ca/) British Columbia, presenting our work on Observation of JRS in Quantum Fluids of Light in collaboration with [Quentin Glorieux group](https://www.quentinglorieux.fr/) at Sorbonne Université - LKB. I had a very stimulating visit, and found out a little about the excititng research going on at UVic in Physics, Chemistry, and Engineering.
+
+<img src="/assets/images/news/int-dipole.png" alt="dipole" width=700>
