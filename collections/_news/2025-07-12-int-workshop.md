@@ -19,6 +19,7 @@ I also visited the [University of Victoria](https://www.uvic.ca/) British Columb
 
 <!-- <img src="/assets/images/news/vortnuc.png" alt="vortex nucleation" width=200> -->
 There were also some interesting sculptures and engravings!
+
 <img src="/assets/images/news/penguin.png" alt="penguin" width=200>
 <img src="/assets/images/news/troll.png" alt="dipole" width=200>
 <img src="/assets/images/news/int-dipole.png" alt="dipole" width=200>
