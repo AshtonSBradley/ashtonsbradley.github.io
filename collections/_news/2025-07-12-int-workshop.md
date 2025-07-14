@@ -15,12 +15,12 @@ It was a wonderful opportunity to make new connections at the INT and start some
 - [Observation of Jones-Roberts Solitons in a Paraxial Quantum Fluid of Light](http://dx.doi.org/10.1103/PhysRevLett.134.233401)
 - [Velocity correlations of vortices and rarefaction pulses in compressible planar quantum fluids](http://arxiv.org/abs/2502.08930)
 
-I also visited the [University of Victoria, British Columbia](https://www.uvic.ca/), presenting our work on Observation of JRS in Quantum Fluids of Light in collaboration with [Quentin Glorieux group](https://www.quentinglorieux.fr/) at Sorbonne Université - LKB. It was a highly stimulating visit, and I learned about some of the excititng research going on at UVic!
+I also visited the [University of Victoria, British Columbia](https://www.uvic.ca/), presenting our work on Observation of JRS in Quantum Fluids of Light in collaboration with [Quentin Glorieux group](https://www.quentinglorieux.fr/) at Sorbonne Université - LKB. It was a highly stimulating visit, and I learned about some of the exciting research going on at UVic!
 
 There were also some interesting sculptures and engravings. 
 
 | <img src="/assets/images/news/penguin.png" alt="A machine pretending to be a penguin" width=200> | <img src="/assets/images/news/troll.png" alt="Troll at troll street bridge" width=200> | <img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200> 
 |:--:|:--:|:--:|
-| *A machine pretending to be a penguin* | *Troll at troll street bridge* | *Electric dipole or vortex dipole* |
+| A machine pretending to be a penguin | Troll at troll street bridge | Electric dipole or vortex dipole |
 
 
