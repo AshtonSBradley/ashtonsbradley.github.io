@@ -19,20 +19,15 @@ I also visited the [University of Victoria, British Columbia](https://www.uvic.c
 
 There were also some interesting sculptures and engravings. 
 
-| <img src="/assets/images/news/penguin.png" alt="Penguin as machine" width=200> | 
-|:--:| 
-| *Penguin as machine* |
+| <img src="/assets/images/news/penguin.png" alt="Penguin as machine" width=200> | <img src="/assets/images/news/troll.png" alt="Troll at troll street bridge" width=200> | <img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200> 
+|:--:|:--:|:--:|
+| *Penguin as machine* | *Troll at troll street bridge* | *Electric dipole or vortex dipole* |
 
-| ![/assets/images/news/troll.png](/assets/images/news/troll.png) | 
+<!-- | <img src="/assets/images/news/troll.png" alt="Troll at troll street bridge" width=200> | 
 |:--:| 
 | *Troll at troll street bridge* |
 
-| ![/assets/images/news/int-dipole.png](/assets/images/news/int-dipole.png) | 
+| <img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200> | 
 |:--:| 
-| *Electric dipole or vortex dipole* |
+| *Electric dipole or vortex dipole* | -->
 
-<!-- <img src="/assets/images/news/penguin.png" alt="Penguin as machine" width=200>
-
-<img src="/assets/images/news/troll.png" alt="Troll at troll street bridge" width=200>
-
-<img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200> -->
