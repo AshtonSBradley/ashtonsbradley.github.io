@@ -20,6 +20,15 @@ I also visited the [University of Victoria, British Columbia](https://www.uvic.c
 <!-- <img src="/assets/images/news/vortnuc.png" alt="vortex nucleation" width=200> -->
 There were also some interesting sculptures and engravings. 
 
+<figure>
 <img src="/assets/images/news/penguin.png" alt="Penguin as machine" width=200>
+<figcaption>Penguin as machine.</figcaption>
+</figure>
+<figure>
 <img src="/assets/images/news/troll.png" alt="Troll at troll street bridge" width=200>
+<figcaption>Troll at Troll Street bridge.</figcaption>
+</figure>
+<figure>
 <img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200>
+<figcaption>Electric dipole or vortex dipole?</figcaption>
+</figure>
