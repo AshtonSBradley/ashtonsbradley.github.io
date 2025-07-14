@@ -19,7 +19,7 @@ I also visited the [University of Victoria, British Columbia](https://www.uvic.c
 
 There were also some interesting sculptures and engravings. 
 
-| ![/assets/images/news/penguin.png](/assets/images/news/penguin.png) | 
+| <img src="/assets/images/news/penguin.png" alt="Penguin as machine" width=200> | 
 |:--:| 
 | *Penguin as machine* |
 
