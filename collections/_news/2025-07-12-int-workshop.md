@@ -17,18 +17,22 @@ It was a wonderful opportunity to make new connections at the INT and start some
 
 I also visited the [University of Victoria, British Columbia](https://www.uvic.ca/), presenting our work on Observation of JRS in Quantum Fluids of Light in collaboration with [Quentin Glorieux group](https://www.quentinglorieux.fr/) at Sorbonne Université - LKB. It was a highly stimulating visit, and I learned about some of the excititng research going on at UVic!
 
-<!-- <img src="/assets/images/news/vortnuc.png" alt="vortex nucleation" width=200> -->
 There were also some interesting sculptures and engravings. 
 
-<figure>
-<img src="/assets/images/news/penguin.png" alt="Penguin as machine" width=200>
-<figcaption>Penguin as machine.</figcaption>
-</figure>
-<figure>
+| ![/assets/images/news/penguin.png](/assets/images/news/penguin.png) | 
+|:--:| 
+| *Penguin as machine* |
+
+| ![/assets/images/news/troll.png](/assets/images/news/troll.png) | 
+|:--:| 
+| *Troll at troll street bridge* |
+
+| ![/assets/images/news/int-dipole.png](/assets/images/news/int-dipole.png) | 
+|:--:| 
+| *Electric dipole or vortex dipole* |
+
+<!-- <img src="/assets/images/news/penguin.png" alt="Penguin as machine" width=200>
+
 <img src="/assets/images/news/troll.png" alt="Troll at troll street bridge" width=200>
-<figcaption>Troll at Troll Street bridge.</figcaption>
-</figure>
-<figure>
-<img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200>
-<figcaption>Electric dipole or vortex dipole?</figcaption>
-</figure>
+
+<img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200> -->
