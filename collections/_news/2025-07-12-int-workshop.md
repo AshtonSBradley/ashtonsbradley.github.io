@@ -21,6 +21,6 @@ There were also some interesting sculptures and engravings.
 
 | <img src="/assets/images/news/penguin.png" alt="A machine pretending to be a penguin" width=200> | <img src="/assets/images/news/troll.png" alt="Troll at troll street bridge" width=200> | <img src="/assets/images/news/int-dipole.png" alt="Electric dipole or vortex dipole" width=200> 
 |:--:|:--:|:--:|
-| *Penguin as machine* | *Troll at troll street bridge* | *Electric dipole or vortex dipole* |
+| *A machine pretending to be a penguin* | *Troll at troll street bridge* | *Electric dipole or vortex dipole* |
 
 
