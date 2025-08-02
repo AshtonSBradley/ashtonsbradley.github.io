@@ -19,8 +19,8 @@ I also visited the [University of Victoria, British Columbia](https://www.uvic.c
 
 There were also some interesting sculptures and engravings. 
 
-| <img src="/assets/images/news/penguin.png" alt="A machine pretending to be a penguin" width=200> | <img src="/assets/images/news/troll.png" alt="Troll street bridge" width=200> | <img src="/assets/images/news/int-dipole.png" alt="Dipoles vortex and electric" width=200> 
+| <img src="/assets/images/news/penguin.png" alt="A machine pretending to be a penguin" width=200> | <img src="/assets/images/news/troll.png" alt="Large troll at troll street bridge" width=200> | <img src="/assets/images/news/int-dipole.png" alt="Dipoles vortex and electric" width=200> 
 |:--:|:--:|:--:|
-| A machine pretending to be a penguin | Troll street bridge | Dipoles vortex and electric |
+| A machine pretending to be a penguin | Large troll at troll street bridge | Dipoles vortex and electric |
 
 
