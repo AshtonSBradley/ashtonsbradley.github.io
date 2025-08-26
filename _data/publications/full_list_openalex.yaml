@@ -1,27 +1,27 @@
-- title: Observation of Jones-Roberts solitons in a paraxial quantum fluid of light
+- title: Observation of Jones-Roberts Solitons in a Paraxial Quantum Fluid of Light
   authors:
   - name: Myrann Baker-Rasooli
-    orcid: null
+    orcid: https://orcid.org/0000-0003-0969-6705
   - name: Tangui Aladjidi
+    orcid: https://orcid.org/0000-0002-3109-9723
+  - name: Nils A. Krause
     orcid: null
-  - name: Nils A Krause
-    orcid: null
-  - name: Ashton S Bradley
-    orcid: null    
+  - name: A. S. Bradley
+    orcid: https://orcid.org/0000-0002-3027-3195
   - name: Quentin Glorieux
-    orcid: null    
+    orcid: https://orcid.org/0000-0003-0903-0233
   link:
-    url: https://doi.org/10.1103/PhysRevLett.134.233401
-    display: Physical Review Letters 134 2 (2025).
-  doi: 
-  is_oa: false
-  oa_url: https://arxiv.org/abs/2501.08383
+    url: https://doi.org/10.1103/physrevlett.134.233401
+    display: Physical Review Letters 134 23 (2025).
+  doi: https://doi.org/10.1103/physrevlett.134.233401
+  is_oa: true
+  oa_url: http://arxiv.org/pdf/2501.08383
   publication_year: 2025
   journal: Physical Review Letters
   journal_abbreviation: ''
   biblio:
-    volume:  '134'
-    issue:  '2'
+    volume: '134'
+    issue: '23'
     first_page: null
     last_page: null
 
@@ -33,12 +33,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.111.023308
-    display: Physical review A 111 2 (2025).
+    display: Physical review. A/Physical review, A 111 2 (2025).
   doi: https://doi.org/10.1103/physreva.111.023308
   is_oa: false
-  oa_url: https://arxiv.org/abs/2409.03184
+  oa_url: null
   publication_year: 2025
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '111'
@@ -54,12 +54,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.110.053302
-    display: Physical review A 110 5 (2024).
+    display: Physical review. A/Physical review, A 110 5 (2024).
   doi: https://doi.org/10.1103/physreva.110.053302
   is_oa: true
   oa_url: http://arxiv.org/pdf/2408.06532
   publication_year: 2024
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '110'
@@ -104,12 +104,12 @@
     orcid: https://orcid.org/0000-0002-2811-9797
   link:
     url: https://doi.org/10.1103/physreva.107.033314
-    display: Physical review A 107 3 (2023).
+    display: Physical review. A/Physical review, A 107 3 (2023).
   doi: https://doi.org/10.1103/physreva.107.033314
   is_oa: true
   oa_url: https://arxiv.org/pdf/2205.14654
   publication_year: 2023
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '107'
@@ -129,12 +129,12 @@
     orcid: https://orcid.org/0000-0002-0442-7867
   link:
     url: https://doi.org/10.1103/physreva.106.053316
-    display: Physical review A 106 5 (2022).
+    display: Physical review. A/Physical review, A 106 5 (2022).
   doi: https://doi.org/10.1103/physreva.106.053316
   is_oa: true
   oa_url: http://arxiv.org/pdf/2112.09280
   publication_year: 2022
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '106'
@@ -154,12 +154,12 @@
     orcid: https://orcid.org/0000-0002-7009-5813
   link:
     url: https://doi.org/10.1103/physreva.106.043322
-    display: Physical review A 106 4 (2022).
+    display: Physical review. A/Physical review, A 106 4 (2022).
   doi: https://doi.org/10.1103/physreva.106.043322
   is_oa: true
   oa_url: http://arxiv.org/pdf/2112.04012
   publication_year: 2022
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '106'
@@ -275,7 +275,7 @@
   doi: https://doi.org/10.1016/j.optcom.2020.126699
   is_oa: true
   oa_url: https://arxiv.org/pdf/1907.09572
-  publication_year: 2021
+  publication_year: 2020
   journal: Optics Communications
   journal_abbreviation: ''
   biblio:
@@ -318,7 +318,7 @@
   - name: Christopher G. Baker
     orcid: https://orcid.org/0000-0002-9391-2468
   - name: Glen I. Harris
-    orcid: https://orcid.org/0000-0003-3651-839X
+    orcid: null
   - name: Oliver R. Stockdale
     orcid: https://orcid.org/0000-0001-9924-036X
   - name: Stefan Forstner
@@ -515,12 +515,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.95.063607
-    display: Physical review A 95 6 (2017).
+    display: Physical review. A/Physical review, A 95 6 (2017).
   doi: https://doi.org/10.1103/physreva.95.063607
   is_oa: true
   oa_url: https://arxiv.org/pdf/1703.06607
   publication_year: 2017
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '95'
@@ -543,12 +543,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.94.023602
-    display: Physical review A 94 2 (2016).
+    display: Physical review. A/Physical review, A 94 2 (2016).
   doi: https://doi.org/10.1103/physreva.94.023602
   is_oa: true
   oa_url: http://arxiv.org/pdf/1512.05517
   publication_year: 2016
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '94'
@@ -571,12 +571,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.93.063603
-    display: Physical review A 93 6 (2016).
+    display: Physical review. A/Physical review, A 93 6 (2016).
   doi: https://doi.org/10.1103/physreva.93.063603
   is_oa: true
   oa_url: http://arxiv.org/pdf/1602.03243
   publication_year: 2016
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '93'
@@ -593,12 +593,12 @@
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
     url: https://doi.org/10.1103/physreva.93.063604
-    display: Physical review A 93 6 (2016).
+    display: Physical review. A/Physical review, A 93 6 (2016).
   doi: https://doi.org/10.1103/physreva.93.063604
   is_oa: true
   oa_url: https://arxiv.org/pdf/1604.01487
   publication_year: 2016
-  journal: Physical review A
+  journal: Physical review. A/Physical review, A
   journal_abbreviation: ''
   biblio:
     volume: '93'
@@ -1242,7 +1242,7 @@
     orcid: null
   - name: A. S. Bradley
     orcid: https://orcid.org/0000-0002-3027-3195
-  - name: Oliver Pfister
+  - name: O. Pfister
     orcid: null
   - name: M. K. Olsen
     orcid: null
@@ -1710,7 +1710,7 @@
   authors:
   - name: "Sebastian W\xFCster"
     orcid: https://orcid.org/0000-0003-4382-5582
-  - name: "Beata J. Da\u0327browska-W\xFCster"
+  - name: "Beata J. D\u0105browska-W\xFCster"
     orcid: null
   - name: A. S. Bradley
     orcid: https://orcid.org/0000-0002-3027-3195
@@ -1788,7 +1788,7 @@
 - title: Three-body recombination of ultracold Bose gases using the truncated Wigner
     method
   authors:
-  - name: Aidan Norrie
+  - name: A. A. Norrie
     orcid: https://orcid.org/0000-0003-4132-8777
   - name: R. J. Ballagh
     orcid: null
@@ -2016,5 +2016,4 @@
     issue: '23'
     first_page: '4673'
     last_page: '4687'
-
 
