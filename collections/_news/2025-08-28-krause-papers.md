@@ -2,7 +2,7 @@
 layout: post
 title: Congratulations Nils, two papers accepted!
 slug: krause-papers
-image: jrs-spec.png
+image: Nils.jpg
 ---
 In the last week Nils Krause had two papers accepted for publication:
 
