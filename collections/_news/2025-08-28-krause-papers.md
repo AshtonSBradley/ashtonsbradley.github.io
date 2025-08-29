@@ -6,8 +6,8 @@ image: spgpe_cut.png
 ---
 In the last week Nils Krause, PhD student in the quantum fliuds group, had two papers accepted for publication:
 
-- Equilibrium, Relaxation and Fluctuations in homogeneous Bose-Einstein Condensates: Linearized Classical Field Analysis, Nils Krause, Ashton S Bradley, [arXiv](http://arxiv.org/abs/2505.03216).
-- Velocity correlations of vortices and rarefaction pulses in compressible planar quantum fluids, [arXiv](http://arxiv.org/abs/2502.08930)
+- Equilibrium, Relaxation and Fluctuations in homogeneous Bose-Einstein Condensates: Linearized Classical Field Analysis, Nils A. Krause, Ashton S Bradley [arXiv](http://arxiv.org/abs/2505.03216).
+- Velocity correlations of vortices and rarefaction pulses in compressible planar quantum fluids, Ashton S Bradley, Nils A. Krause [arXiv](http://arxiv.org/abs/2502.08930)
 
 Congratulations Nils! 
 
