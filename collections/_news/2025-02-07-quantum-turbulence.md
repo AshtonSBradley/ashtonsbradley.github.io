@@ -4,12 +4,12 @@ title: Regimes of Steady-State Turbulence in a Quantum Fluid
 slug: qturb-pra
 image: qturb.png
 ---
-__Editor's suggestion:__
+Tommy's work on quantum turbulence has appeared in Physical Review A, highlighted as an __Editor's suggestion:__
 > _``The authors theoretically study the development of turbulence in a Bose-Einstein condensate trapped and shaken in a box potential. They identify two distinct turbulence regimes with different scalings for weak and strong forces."_
 
 - [Regimes of Steady-State Turbulence in a Quantum Fluid, Tommy Z. Fischer, Ashton S. Bradley, Phys. Rev. A 111, 023308 (2025)](https://doi.org/10.1103/PhysRevA.111.023308); [arXiv](https://arxiv.org/abs/2409.03184).
 
-**Great work Tommy!**
+Congratulations Tommy!
 
 ### Abstract:
 We simulate the Gross-Pitaevskii equation to model the development of turbulence in a quantum fluid confined by a cuboid box potential and forced by shaking along one axis. We observe the development of isotropic turbulence from anisotropic forcing for a broad range of forcing amplitudes and characterize the states through their Fourier spectra, vortex distributions, and spatial correlations. 
