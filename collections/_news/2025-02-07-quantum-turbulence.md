@@ -14,7 +14,7 @@ Congratulations Tommy!
 ### Abstract:
 We simulate the Gross-Pitaevskii equation to model the development of turbulence in a quantum fluid confined by a cuboid box potential and forced by shaking along one axis. We observe the development of isotropic turbulence from anisotropic forcing for a broad range of forcing amplitudes and characterize the states through their Fourier spectra, vortex distributions, and spatial correlations. 
 
-For weak forcing the steady-state wave-action spectrum exhibits a $$k^{-3.5}$$ scaling over wave number $k$; further decomposition uncovers the same power law in both compressible kinetic energy and quantum pressure, while the bulk superfluid remains phase coherent and free from extended vortices. 
+For weak forcing the steady-state wave-action spectrum exhibits a $$k^{-3.5}$$ scaling over wave number $$k$$; further decomposition uncovers the same power law in both compressible kinetic energy and quantum pressure, while the bulk superfluid remains phase coherent and free from extended vortices. 
 
 As the forcing energy exceeds the chemical potential, extended vortices develop in the bulk, disrupting the $$k^{−3.5}$$ scaling. The spectrum then transitions to a $$k^{−7/3}$$ regime for compressible kinetic energy only, associated with dense vortex turbulence, and phase coherence limited to the healing length. The strong forcing regime is consistent with an inverse cascade of compressible energy driven by small-scale vortex annihilation.
 
