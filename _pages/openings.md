@@ -27,7 +27,9 @@ If you have an MSc and are interested in **working with us as a PhD student**, p
 - send me an [email](mailto:{{site.data.admin.settings.email}}). 
 State briefly why you are interested and attach a CV, including information about the grades you had as in Hons or MSc. No need for a separate cover letter or certificates. 
 
-Support for PhD research at Otago 
+- The next steps will be for us to meet online to discuss research and formulate a research proposal. 
+
+Financial support for PhD research at Otago 
 
 [Otago Doctoral Scholarship](https://www.otago.ac.nz/courses/scholarships/university-of-otago-doctoral-scholarship)
 
