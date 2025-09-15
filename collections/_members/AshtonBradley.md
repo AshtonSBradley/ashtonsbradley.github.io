@@ -26,7 +26,7 @@ googlescholar_username: fIjUjckAAAAJ&hl
 about_title: Short Bio
 about_profile_image: assets/images/members/Ashton.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  After completing a MSc at the University of Auckland in 2001 I started PhD study in the group of Crispin Gardiner at the University of Victoria, finishing in 2005.
+  After completing a MSc at the University of Auckland supervisded by Joe Hope and Matthew Collett in 2001, I started PhD study in the group of Crispin Gardiner at the Victoria University of Wellington, finishing in 2005.
 
   In 2005 I took up a post-doctoral fellowship at the University of Queensland in the Center of Excellence for Quantum-Atom Optics in the group of Matthew Davis. In 2008 I was awarded a New Zealand Foundation for Research, Science, and Technology Fellowship and moved to Otago University. In 2010 I was awarded a Rutherford Discovery Fellowship and Marsden Fast Start Grant. In 2016 I transitioned to a permanent faculty position at the University of Otago.
 
