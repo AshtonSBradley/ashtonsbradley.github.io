@@ -17,8 +17,8 @@ We are a group of **friendly and welcoming scientists** and we aim to create an 
 
 <!--  -->
 ### Applications for PhD positions
-If you have an MSc and are interested in **working with us as a PhD student**, please familiarise yourself with Otago PhD entry requirements
-- https://www.otago.ac.nz/graduate-research/study/phddoctoral/programme/phd-application-process
+If you have an MSc and are interested in **working with us as a PhD student**, please 
+- [familiarise yourself with Otago PhD entry requirements](https://www.otago.ac.nz/graduate-research/study/phddoctoral/programme/phd-application-process)
 - send me an [email](mailto:{{site.data.admin.settings.email}}). 
 State briefly why you are interested and attach a CV, including information about the grades you had as in Hons or MSc. No need for a separate cover letter or certificates. 
 
