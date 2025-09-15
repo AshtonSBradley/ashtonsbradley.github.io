@@ -17,8 +17,8 @@ We are a group of **friendly and welcoming scientists** and we aim to create an 
 
 <!--  -->
 ### Applications for PhD positions
-If you have an MSc and are interested in **working with us as a PhD student**, please familiarise yourself with the
-- [Otago PhD application process](https://www.otago.ac.nz/graduate-research/study/phddoctoral/programme/phd-application-process), and note in particular: 
+If you have an MSc and are interested in **working with us as a PhD student**, please 
+- familiarise yourself with the [Otago PhD application process](https://www.otago.ac.nz/graduate-research/study/phddoctoral/programme/phd-application-process), and note in particular: 
 
     __We welcome applications for PhD study and scholarships throughout the year. You may also choose to start your PhD study at any time during the year.__
 
@@ -27,7 +27,7 @@ If you have an MSc and are interested in **working with us as a PhD student**, p
 - send me an [email](mailto:{{site.data.admin.settings.email}}). 
 State briefly why you are interested and attach a CV, including information about the grades you had as in Hons or MSc. No need for a separate cover letter or certificates. 
 
-- The next steps will be for us to meet online to discuss research and formulate a research proposal. 
+<!--- next step is to meet online, and then formulate a research proposal. ---> 
 
 Financial support for PhD research at Otago 
 
