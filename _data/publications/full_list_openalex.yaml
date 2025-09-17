@@ -37,7 +37,7 @@
   biblio:
     volume:  '112'
     issue:  ''
-    first_page: 033316
+    first_page: 033308
     last_page: null
 
 - title: Observation of Jones-Roberts solitons in a paraxial quantum fluid of light
@@ -80,7 +80,7 @@
   is_oa: false
   oa_url: null
   publication_year: 2025
-  journal: Physical review. A/Physical review, A
+  journal: Physical Review A
   journal_abbreviation: ''
   biblio:
     volume: '111'
@@ -101,7 +101,7 @@
   is_oa: true
   oa_url: http://arxiv.org/pdf/2408.06532
   publication_year: 2024
-  journal: Physical review. A/Physical review, A
+  journal: Physical Review A
   journal_abbreviation: ''
   biblio:
     volume: '110'
@@ -151,7 +151,7 @@
   is_oa: true
   oa_url: https://arxiv.org/pdf/2205.14654
   publication_year: 2023
-  journal: Physical review. A/Physical review, A
+  journal: Physical Review A
   journal_abbreviation: ''
   biblio:
     volume: '107'
