@@ -1,13 +1,55 @@
+- title: Velocity correlations of vortices and rarefaction pulses in compressible planar quantum fluids
+  authors:
+  - name: Ashton S Bradley
+    orcid: https://orcid.org/0000-0002-3027-3195    
+  - name: Nils A Krause
+    orcid: https://orcid.org/0009-0009-0754-7782
+  link:
+    url: https://arxiv.org/abs/2502.08930
+    display: Physical Review A
+  doi: 
+  is_oa: true
+  oa_url: https://arxiv.org/abs/2502.08930
+  publication_year: 2025
+  journal: Physical Review A
+  journal_abbreviation: ''
+  biblio:
+    volume:  ''
+    issue:  ''
+    first_page: null
+    last_page: null
+
+- title: Equilibrium, Relaxation and Fluctuations in homogeneous Bose-Einstein Condensates: Linearized Classical Field Analysis
+  authors:
+  - name: Nils A Krause
+    orcid: https://orcid.org/0009-0009-0754-7782
+  - name: Ashton S Bradley
+    orcid: https://orcid.org/0000-0002-3027-3195         
+  link:
+    url: https://arxiv.org/abs/2505.03216
+    display: Physical Review A
+  doi: 
+  is_oa: true
+  oa_url: https://arxiv.org/abs/2505.03216
+  publication_year: 2025
+  journal: Physical Review A
+  journal_abbreviation: ''
+  biblio:
+    volume:  ''
+    issue:  ''
+    first_page: null
+    last_page: null
+
 - title: Observation of Jones-Roberts solitons in a paraxial quantum fluid of light
   authors:
   - name: Myrann Baker-Rasooli
-    orcid: null
+    orcid: https://orcid.org/0000-0003-0969-6705
   - name: Tangui Aladjidi
-    orcid: null
+    orcid: https://orcid.org/0000-0002-3109-9723
   - name: Nils A Krause
-    orcid: null
+    orcid: https://orcid.org/0009-0009-0754-7782
   - name: Ashton S Bradley
-    orcid: null    
+    orcid: https://orcid.org/0000-0002-3027-3195   
   - name: Quentin Glorieux
     orcid: null    
   link:
@@ -28,7 +70,7 @@
 - title: Thermal decay of planar Jones-Roberts solitons
   authors:
   - name: Nils A. Krause
-    orcid: null
+    orcid: https://orcid.org/0009-0009-0754-7782
   - name: A. S. Bradley
     orcid: https://orcid.org/0000-0002-3027-3195
   link:
