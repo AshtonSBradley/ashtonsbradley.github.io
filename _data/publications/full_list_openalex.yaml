@@ -14,9 +14,9 @@
   journal: Physical Review A
   journal_abbreviation: ''
   biblio:
-    volume:  ''
+    volume:  '112'
     issue:  ''
-    first_page: null
+    first_page: 033316
     last_page: null
 
 - title: "Equilibrium, Relaxation and Fluctuations in homogeneous Bose-Einstein Condensates: Linearized Classical Field Analysis"
@@ -35,9 +35,9 @@
   journal: Physical Review A
   journal_abbreviation: ''
   biblio:
-    volume:  ''
+    volume:  '112'
     issue:  ''
-    first_page: null
+    first_page: 033316
     last_page: null
 
 - title: Observation of Jones-Roberts solitons in a paraxial quantum fluid of light
@@ -62,9 +62,9 @@
   journal: Physical Review Letters
   journal_abbreviation: ''
   biblio:
-    volume:  ''
+    volume:  '134'
     issue:  ''
-    first_page: null
+    first_page: 233401
     last_page: null
 
 - title: Regimes of steady-state turbulence in a quantum fluid

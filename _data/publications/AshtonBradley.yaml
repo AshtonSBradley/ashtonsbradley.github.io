@@ -14,9 +14,9 @@
   journal: Physical Review A
   journal_abbreviation: ''
   biblio:
-    volume:  ''
+    volume:  '112'
     issue:  ''
-    first_page: null
+    first_page: 033316
     last_page: null
 
 - title: "Equilibrium, Relaxation and Fluctuations in homogeneous Bose-Einstein Condensates: Linearized Classical Field Analysis"
@@ -35,9 +35,9 @@
   journal: Physical Review A
   journal_abbreviation: ''
   biblio:
-    volume:  ''
+    volume:  '112'
     issue:  ''
-    first_page: null
+    first_page: 033316
     last_page: null
 
 - title: Observation of Jones-Roberts solitons in a paraxial quantum fluid of light
@@ -51,7 +51,7 @@
   - name: Ashton S Bradley
     orcid: https://orcid.org/0000-0002-3027-3195   
   - name: Quentin Glorieux
-    orcid: null    
+    orcid: https://orcid.org/0000-0003-0903-0233    
   link:
     url: https://arxiv.org/abs/2501.08383
     display: Physical Review Letters
@@ -62,9 +62,9 @@
   journal: Physical Review Letters
   journal_abbreviation: ''
   biblio:
-    volume:  ''
+    volume:  '134'
     issue:  ''
-    first_page: null
+    first_page: 233401
     last_page: null
     
 - title: Thermal decay of planar Jones-Roberts solitons
