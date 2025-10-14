@@ -1,7 +1,7 @@
 ---
 title: Quantum Fluid Dynamics
 slug: quantum-fluid
-abstract: Superfluids flow without resistance, a striking quantum many-body phenomenon. Yet even superfluids have their limits - force one just right and vortices will nucleate, a form of quantum viscosity. Forced Bose-Einstein condensates support compressible phonons and incompressible vortices, different pathways for energy transport in turbulent dynamics. We explore turbulent flows in quantum fluids - from dilute gas BECs to novel analogue systems such as quantum fluids of light. 
+abstract: Superfluids flow without resistance, a striking quantum many-body phenomenon. Yet even superfluids have their limits - force one just right and vortices will nucleate, a form of quantum viscosity. Forced Bose-Einstein condensates support compressible phonons and incompressible vortices, different pathways for energy transport in turbulent dynamics. We explore turbulent flows in quantum fluids - from dilute gas BECs to analogue systems such as quantum fluids of light. 
 image: turbulence.jpeg
 team:
   - Ashton Bradley
