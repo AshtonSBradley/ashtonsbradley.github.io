@@ -8,6 +8,8 @@ team:
   - Nils Krause
   - Cassie Dong
 publications:
+  - https://doi.org/10.1103/qmrs-x19w
+  - https://doi.org/10.1103/PhysRevLett.134.233401
   - https://doi.org/10.1103/physreva.111.023308
   - https://doi.org/10.1103/physreva.106.043322
   - https://doi.org/10.1103/physrevx.12.011031
