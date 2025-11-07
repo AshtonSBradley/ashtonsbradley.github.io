@@ -7,7 +7,7 @@
   link:
     url: https://arxiv.org/abs/2502.08930
     display: Physical Review A
-  doi: 
+  doi: https://doi.org/10.1103/qmrs-x19w
   is_oa: true
   oa_url: https://arxiv.org/abs/2502.08930
   publication_year: 2025
@@ -28,7 +28,7 @@
   link:
     url: https://arxiv.org/abs/2505.03216
     display: Physical Review A
-  doi: 
+  doi: https://doi.org/10.1103/2c78-wtqp
   is_oa: true
   oa_url: https://arxiv.org/abs/2505.03216
   publication_year: 2025
@@ -55,7 +55,7 @@
   link:
     url: https://arxiv.org/abs/2501.08383
     display: Physical Review Letters
-  doi: 
+  doi: https://doi.org/10.1103/PhysRevLett.134.233401
   is_oa: true
   oa_url: https://arxiv.org/abs/2501.08383
   publication_year: 2025

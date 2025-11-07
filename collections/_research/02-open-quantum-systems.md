@@ -8,6 +8,7 @@ team:
   - Nils Krause
   - Cassie Dong
 publications:
+  - https://doi.org/10.1103/2c78-wtqp
   - https://doi.org/10.1103/physreva.110.053302
   - https://doi.org/10.1103/physrevresearch.5.013184
   - https://doi.org/10.21468/scipostphys.8.2.029
