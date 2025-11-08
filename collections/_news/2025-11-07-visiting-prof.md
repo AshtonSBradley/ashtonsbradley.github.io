@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QICS Visiting Professor
+title: 2026 QICS Visiting Professor Fellowship 
 slug: visiting-prof
 image: qics.png
 ---
