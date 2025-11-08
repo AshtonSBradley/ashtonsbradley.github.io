@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   In 2005 I took up a post-doctoral fellowship at the University of Queensland in the Center of Excellence for Quantum-Atom Optics in the group of Matthew Davis. In 2008 I was awarded a New Zealand Foundation for Research, Science, and Technology Fellowship and moved to Otago University. In 2010 I was awarded a Rutherford Discovery Fellowship and Marsden Fast Start Grant. In 2016 I transitioned to a permanent faculty position at the University of Otago.
 
   #### Fellowships and Awards
-  - 2026 Professor Invité, Quantum Information Centre Sorbonne Université.
+  - 2026 Visiting Professor, Quantum Information Centre Sorbonne Université.
   - 2011-2015 Rutherford Discovery Fellowship
   - 2008-2010 NZ Foundation for Research, Science, and Technology Research Fellowship.
   - 2005-2007 University of Queensland Postdoctoral Fellowship.
