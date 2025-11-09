@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2015 Exceptional Thesis -Sam Rooney
+title: 2015 Sam Rooney Exceptional Thesis
 slug: sam-thesis
 image: thesis.jpeg
 ---
-The thesis of Otago PhD candidate Sam Rooney has been ranked as a [2015 Exceptional PhD Theses](https://www.otago.ac.nz/sciences/research/student-research-and-awards#2015-exceptional-theses-and-student-research-awards) in the Division of Sciences. Sam's PhD research pioneered applications of the open quantum systems approach to dilute-gas Bose-Einstein condensates, leading to significant advances in the understanding of dissipative bosonic matter waves.
+Sam Rooney's PhD thesis has been ranked as a [2015 Exceptional PhD Theses](https://www.otago.ac.nz/sciences/research/student-research-and-awards#2015-exceptional-theses-and-student-research-awards) in the Division of Sciences. Sam's PhD research pioneered applications of the open quantum systems approach to dilute-gas Bose-Einstein condensates, advancing our understanding of dissipative bosonic matter waves.
 
 **Congratulations Sam!**
 
