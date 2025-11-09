@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026 QICS Visiting Professor Fellowship 
+title: 2026 QICS Visiting Professor Fellowship at LKB Paris
 slug: visiting-prof
 image: qics.png
 ---
