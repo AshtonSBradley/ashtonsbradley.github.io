@@ -6,7 +6,7 @@
 - title: Regimes of steady-state turbulence in a quantum fluid
   image: qturb.png
   description: 
-   We simulate turbulence in a quantum fluid forced by shaking along one axis. Isotropic turbulence develops, characterized via power-law energy spectra, vortex distributions, and spatial correlations. Weak-wave turbulence at low forcing gives way to strong-vortex turbulence at high forcing, with a crossover when vortices interfere with weak-wave energy transport.
+   We explore the transition to turbulence in a quantum fluid, forced by shaking a box trap along one axis. Isotropic turbulence develops, characterized via power-law energy spectra, vortex distributions, and spatial correlations. Weak-wave turbulence at low forcing gives way to strong-vortex turbulence at high forcing, with a crossover when vortices interfere with weak-wave energy transport.
 
 - title: Thermal decay of planar Jones-Roberts solitons
   image: jrs.png
