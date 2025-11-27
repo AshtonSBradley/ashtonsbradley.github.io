@@ -6,7 +6,7 @@
 - title: Regimes of steady-state turbulence in a quantum fluid
   image: qturb.png
   description: 
-   We simulate the Gross-Pitaevskii equation to model the development of turbulence in a quantum fluid confined by a cuboid box potential and forced by shaking along one axis. We observe the development of isotropic turbulence from anisotropic forcing for a broad range of forcing amplitudes and characterize the states through their Fourier spectra, vortex distributions, and spatial correlations. 
+   We simulate turbulence in a quantum fluid forced by shaking along one axis. Isotropic turbulence develops, characterized via power-law energy spectra, vortex distributions, and spatial correlations. Weak-wave turbulence at low forcing gives way to strong-vortex turbulence at high forcing, with a crossover when vortices interfere with weak-wave energy transport.
 
 - title: Thermal decay of planar Jones-Roberts solitons
   image: jrs.png
