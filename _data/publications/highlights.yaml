@@ -1,7 +1,7 @@
 - title: Observation of Jones-Roberts solitons in a paraxial quantum fluid of light
   image: jrs_v.png
   description: 
-   We investigate the formation and dynamics of Jones-Roberts solitons in a superfluid of light created by a near-resonant laser beam propagating through a hot rubidium vapor. We excite a vortex-antivortex dipole and observe its transition to a rarefaction pulse and back. Motion according to ray optics, and localised velocity correlations are consistent with JRS.
+   We observe the formation and dynamics of Jones-Roberts solitons in a superfluid of light created by a near-resonant laser beam propagating through a hot rubidium vapor. JRS were predicted more than 40 years ago, and are here observed for the first time. We study JRS dynamics, and conversion to a rarefaction pulse. Our theory of velocity correlations is in close agreement with observations.
 
 - title: Regimes of steady-state turbulence in a quantum fluid
   image: qturb.png
@@ -26,4 +26,4 @@
 - title: Giant vortex clusters in a two-dimensional quantum fluid
   image: giant.png
   description: 
-    We experimentally realize vortex clusters in a planar Bose-Einstein condensate. We demonstrate that the clusters persist for long time periods, maintaining the superfluid system in a high-energy state far from global equilibrium. Our experiments reveal vortex matter at negative absolute temperatures.
+    We experimentally realize vortex clusters in a planar Bose-Einstein condensate, observing first evidence of 70 year old predictions of Onsager. Clusters are robust over long time periods, maintaining the superfluid system in a high-energy state far from global equilibrium. Our experiments reveal vortex matter at negative absolute temperatures in agreement with theory.
