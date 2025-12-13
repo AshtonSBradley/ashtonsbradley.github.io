@@ -15,8 +15,7 @@ This was also an opportunity to attend the conference
 
 at Institut Henri Poincaré. The meeting involved an equal mixture of quantum physicists and mathematicians, a full day of talks, and a lot of coffee. 
 
-It was physics paradise - I walked to work via rue Lagrange!
 
-| <img src="/assets/images/news/lagrange.png" alt="" width=200> | <img src="/assets/images/news/curies.png" alt="" width=220> | <img src="/assets/images/news/butterflies.png" alt="" width=200> 
+| <img src="/assets/images/news/lagrange.png" alt="" width=200> | <img src="/assets/images/news/curies.png" alt="" width=300> 
 
 
