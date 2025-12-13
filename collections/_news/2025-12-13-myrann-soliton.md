@@ -4,7 +4,9 @@ title: Myrann thesis defence, des solitons à profusion!
 slug: myrann
 image: poincare.png
 ---
-I travelled to Paris as a member of the committee for Myrann Baker-Rasooli's PhD thesis defence on ground breaking experiments in quantum fluids of light. Myrann gave a superb talk explaining four experiments and some of the unique and fascinating physics of the QFL system, including the first observations of Jones-Roberts solitons! Then came the celebration of Myrann's time in the group of Quentin Glorieux at Ecole Normale Supérieure - Sorbonne Université. 
+I travelled to Paris as a member of the committee for Myrann Baker-Rasooli's PhD thesis defence on ground breaking experiments in quantum fluids of light. Myrann gave a superb talk explaining four experiments and some of the unique and fascinating physics of the QFL system, including the [irst observations of Jones-Roberts solitons](https://doi.org/10.1103/PhysRevLett.134.233401)! 
+
+Then came the celebration of Myrann's time in the group of Quentin Glorieux at Ecole Normale Supérieure - Sorbonne Université. 
 
 Congratulations Dr Baker-Rasooli!
 
