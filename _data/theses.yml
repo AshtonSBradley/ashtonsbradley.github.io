@@ -17,6 +17,14 @@ PhD_theses:
     link: "https://hdl.handle.net/10523/5460"
 
 internships:
+  - year: 2025
+    theses:
+      - name: "Cole Hickey (Hons)"
+        title: "Investigation of intracavity superradiance"
+  - year: 2025
+    theses:
+      - name: "Cassie Dong (MSc)"
+        title: "Scaling dynamics of quantum turbulence in a box trap"
   - year: 2024
     theses:
       - name: "Luc Hackner (Hons)"
