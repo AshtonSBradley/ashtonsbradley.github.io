@@ -13,7 +13,7 @@ This was also an opportunity to attend the conference
 
 [Soliton - Maths-physics meeting on solitons in condensates and polaritons](https://solitons.sciencesconf.org/) 
 
-at Institut Henri Poincaré. The meeting involved an equal mixture of quantum physicists and mathematicians, a full day of talks, and a lot of coffee. 
+at Institut Henri Poincaré. The meeting involved an equal mixture of quantum physicists and mathematicians, a full day of talks, and a lot of coffee. Thanks to Amandine Aftalion and Frédéric Chevy for organising a very stimulating meeting!
 
 
 | <img src="/assets/images/news/lagrange.png" alt="" width=200> | <img src="/assets/images/news/curies.png" alt="" width=400> 
