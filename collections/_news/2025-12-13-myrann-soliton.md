@@ -17,8 +17,8 @@ at Institut Henri Poincaré. The meeting involved an equal mixture of quantum ph
 
 It was physics paradise - I walked to work via rue Lagrange!
 
-| <img src="/assets/images/news/lagrange.png" alt="" width=200> | <img src="/assets/images/news/curies.png" alt="" width=200> | <img src="/assets/images/news/butterflies.png" alt="" width=200> | <img src="/assets/images/news/seine.png" alt="" width=200>
-|:--:|:--:|:--:|:--:|
-| A machine pretending to be a penguin | Large troll at troll street bridge | Dipoles vortex and electric | |
+| <img src="/assets/images/news/lagrange.png" alt="" width=200> | <img src="/assets/images/news/curies.png" alt="" width=200> | <img src="/assets/images/news/butterflies.png" alt="" width=200> 
+|:--:|:--:|:--:|
+
 
 
