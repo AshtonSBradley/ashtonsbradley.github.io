@@ -1,7 +1,7 @@
 ---
 title: Quantum Fluid Dynamics
 slug: quantum-fluid
-abstract: Superfluids flow without resistance—one of the most striking manifestations of quantum many-body physics. Push them hard enough, however, and this perfection breaks-quantized vortices nucleate, a form of quantum viscosity. Driven Bose–Einstein condensates support both compressible phonons and incompressible vortices, providing distinct channels for energy transport in turbulent motion. We investigate turbulence in quantum fluids, spanning dilute-gas BECs and analogue systems such as quantum fluids of light.
+abstract: Superfluids flow without resistance—one of the most striking manifestations of quantum many-body physics. Push them hard enough, however, and this perfection breaks—quantized vortices nucleate, a form of quantum viscosity. Driven Bose–Einstein condensates support both compressible phonons and incompressible vortices, providing distinct channels for energy transport in turbulent motion. We investigate turbulence in quantum fluids, spanning dilute-gas BECs and analogue systems such as quantum fluids of light.
 
 image: turbulence.jpeg
 team:
