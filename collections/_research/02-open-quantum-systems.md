@@ -1,7 +1,7 @@
 ---
 title: Open Quantum Systems
 slug: open-quantum-systems
-abstract: Real quantum systems are not isolated, and contact with the environment causes decoherence. In many-body quantum systems multiple decay channels determine the lifetime of superfluid excitations such as vortices and solitons. These stable excitations can also form during the phase transition to BEC, a process that is also well described by an open systems theory. We explore dissipative mechanisms for excited many-body systems and limits to superfluidity.
+abstract: Real quantum systems never evolve in isolation: coupling to the environment drives decoherence and dissipation. In many-body systems, multiple decay channels set the lifetime of superfluid excitations such as vortices and solitons. These robust structures can also emerge spontaneously during the phase transition to Bose–Einstein condensation—a process naturally captured by open-systems theory. We investigate dissipative dynamics in excited quantum fluids and identify the fundamental limits of superfluidity.
 image: oqsys.jpeg
 team:
   - Ashton Bradley

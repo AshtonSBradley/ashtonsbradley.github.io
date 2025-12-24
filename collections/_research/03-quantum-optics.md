@@ -1,7 +1,7 @@
 ---
 title: Quantum Optics
 slug: quantum-optics
-abstract: Many-body entanglement is central to quantum phenomena. The interaction of light and matter generates entanglement between photons and atoms, sometimes in the form of useable quantum entanglement created via controlled nonlinear processes. Entanglement can be well understood in quantum phase space, the playground of quantum optics theory. We study measures of entanglement, and entanglement resources for quantum information applications.
+abstract: Many-body entanglement underpins the most profound phenomena in quantum physics. By driving controlled light–matter interactions, we generate entanglement between photons and atoms, converting nonlinear dynamics into practical quantum resources. Quantum phase space—the natural language of quantum optics—reveals the structure and strength of these correlations. We develop and apply entanglement measures to identify, characterise, and harness entanglement for quantum information technologies.
 image: qoptics.jpeg
 team:
   - Ashton Bradley
