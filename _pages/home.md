@@ -15,7 +15,7 @@ We explore dynamics and statistical mechanics of quantum fluids at the intersect
 
 We are a quantum theory group in the [Physics Department](http://physics.otago.ac.nz) of the [University of Otago](https://www.otago.ac.nz/). We are part of the wider [Atomic, Molecular, and Optical Quantum Theory](https://amoqt.otago.ac.nz) group. <br>
 
-We use methods of quantum field theory, quantum optics, and computational physics to study quantum many-body phenomena, with a keen eye on experimental developments.
+We use methods of quantum field theory, quantum optics, and computational physics to study quantum many-body phenomena including quantum fluid dynamics, dissipative quantum systems, and quantum entanglement, with a keen eye on experimental developments.
 
 **Job Offers:**
 We are looking for talented new PhD and Masters students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
