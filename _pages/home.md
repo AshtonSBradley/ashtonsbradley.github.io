@@ -5,10 +5,7 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-We explore dynamics and statistical mechanics of quantum fluids.
-<br>
-
-The intersection of ultracold atoms and quantum optics features pristine experimental control over quantum physics and deep investigation of nonlinear many-body phenomena. Ultracold gas experiments afford a rich interplay between interactions, geometry, and optical manipulations that continues to yield new surprising physics. Recently developed optical platforms manifesting quantum fluid effects such as superfluidity have opened up new avenues for exploration.  
+We explore dynamics and statistical mechanics of quantum fluids at the intersection of ultracold atoms and quantum optics. The convergence of ultracold atoms and quantum optics has created an unparalleled arena for exploring quantum physics with exquisite experimental control. These platforms enable direct access to strongly nonlinear many-body dynamics, where interactions, geometry, and driving intertwine to produce fundamentally new behaviour. Ultracold-gas experiments continue to reveal unexpected phases and dynamical phenomena, while newly developed optical platforms exhibiting quantum-fluid effects—such as superfluidity—extend these ideas beyond matter to light. Together, these systems open powerful new pathways for probing, engineering, and exploiting quantum many-body physics.
 <br>
 
 <!-- Carousel -->
@@ -18,7 +15,7 @@ The intersection of ultracold atoms and quantum optics features pristine experim
 
 We are a quantum theory group in the [Physics Department](http://physics.otago.ac.nz) of the [University of Otago](https://www.otago.ac.nz/). We are part of the wider [Atomic, Molecular, and Optical Quantum Theory](https://amoqt.otago.ac.nz) group. <br>
 
-We use methods of quantum field theory, quantum optics, and computational physics to study quantum many body phenomena, with a keen eye on experimental developments.
+We use methods of quantum field theory, quantum optics, and computational physics to study quantum many-body phenomena, with a keen eye on experimental developments.
 
 **Job Offers:**
 We are looking for talented new PhD and Masters students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
