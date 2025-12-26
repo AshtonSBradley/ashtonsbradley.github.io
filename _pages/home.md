@@ -5,7 +5,11 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-We explore dynamics and statistical mechanics of quantum fluids at the intersection of ultracold atoms and quantum optics. The convergence of ultracold atoms and quantum optics has created an unparalleled arena for exploring quantum physics with exquisite experimental control. These platforms enable direct access to strongly nonlinear many-body dynamics, where interactions, geometry, and driving intertwine to produce fundamentally new behaviour. Ultracold-gas experiments continue to reveal unexpected phases and dynamical phenomena, while newly developed optical platforms exhibiting quantum-fluid effects—such as superfluidity—extend these ideas beyond matter to light. Together, these systems open powerful new pathways for probing, engineering, and exploiting quantum many-body physics.
+We are a quantum theory group at the University of Otago exploring dynamics and statistical mechanics of quantum fluids at the intersection of ultracold atoms and quantum optics. 
+
+The convergence of ultracold atoms and quantum optics has created an unparalleled arena for exploring quantum physics with exquisite experimental control. These platforms enable direct access to strongly nonlinear many-body dynamics, where interactions, geometry, and driving intertwine to produce fundamentally new behaviour. Ultracold-gas experiments continue to reveal unexpected phases and dynamical phenomena, while newly developed optical platforms exhibiting quantum-fluid effects—such as superfluidity—extend these ideas beyond matter to light. 
+
+Together, these systems open powerful new pathways for probing, engineering, and exploiting quantum many-body physics.
 <br>
 
 <!-- Carousel -->
