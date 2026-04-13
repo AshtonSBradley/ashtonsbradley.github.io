@@ -1,3 +1,24 @@
+- title: Evaporative damping in open system theory of Bose-Einstein condensates
+  authors:
+  - name: Nils A. Krause
+    orcid: https://orcid.org/0009-0009-0754-7782
+  - name: Ashton S. Bradley
+    orcid: https://orcid.org/0000-0002-3027-3195
+  link:
+    url: https://link.aps.org/doi/10.1103/v7mb-w8ng
+    display: Phys. Rev. A 113 4 (2026).
+  doi: https://doi.org/10.1103/v7mb-w8ng
+  is_oa: true
+  oa_url: https://arxiv.org/abs/2512.06220
+  publication_year: 2026
+  journal: Physical Review A
+  journal_abbreviation: ''
+  biblio:
+    volume: '113'
+    issue: '4'
+    first_page: '043311'
+    last_page: null
+
 - title: Velocity correlations of vortices and rarefaction pulses in compressible planar quantum fluids
   authors:
   - name: Ashton S Bradley
@@ -2061,4 +2082,3 @@
     issue: '1'
     first_page: '131'
     last_page: '133'
-
