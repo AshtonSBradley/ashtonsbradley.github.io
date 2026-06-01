@@ -1,6 +1,8 @@
 - name: PhaseSpaceTools.jl
   url: https://github.com/AshtonSBradley/PhaseSpaceTools.jl
   description: Sampling quantum phase space distributions
+  image: phasespacetools-fock.png
+  image_alt: Fock-state Wigner function sampled with PhaseSpaceTools.jl
   language: Julia
   stars: 7
   forks: 1
@@ -8,6 +10,8 @@
 - name: VortexDistributions.jl
   url: https://github.com/AshtonSBradley/VortexDistributions.jl
   description: Fast accurate creation, detection and analysis of quantum vortex distributions.
+  image: vortexdistributions-rca.png
+  image_alt: Recursive cluster algorithm applied to a quantum vortex distribution
   language: Julia
   stars: 10
   forks: 8
@@ -15,6 +19,8 @@
 - name: QuantumFluidSpectra.jl
   url: https://github.com/AshtonSBradley/QuantumFluidSpectra.jl
   description: Fast, accurate, and flexible spectral analysis for compressible quantum fluids
+  image: quantumfluidspectra-central-vortex.png
+  image_alt: Spectral analysis of a central vortex in a two-dimensional quantum fluid
   language: Julia
   stars: 4
   forks: 3
@@ -22,6 +28,8 @@
 - name: BoseFermiLerch.jl
   url: https://github.com/AshtonSBradley/BoseFermiLerch.jl
   description: Bose, Fermi, and Lerch transcendent, upper incomplete, complex arguments
+  image: bosefermilerch-ideal-gas.png
+  image_alt: Bose and Fermi ideal-gas comparison figure generated with BoseFermiLerch.jl
   language: Julia
   stars: 0
   forks: 0
