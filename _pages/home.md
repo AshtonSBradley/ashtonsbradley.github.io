@@ -5,11 +5,11 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-We are a quantum theory group at the University of Otago exploring dynamics and statistical mechanics of quantum fluids at the intersection of ultracold atoms and quantum optics. 
+We study the theory of quantum fluids: many-body systems where waves, particles, vortices, dissipation, and entanglement meet.
 
-The convergence of ultracold atoms and quantum optics has created an unparalleled arena for exploring quantum physics with exquisite experimental control. These platforms enable direct access to strongly nonlinear many-body dynamics, where interactions, geometry, and driving intertwine to produce fundamentally new behaviour. Ultracold-gas experiments continue to reveal unexpected phases and dynamical phenomena, while newly developed optical platforms exhibiting quantum-fluid effects—such as superfluidity—extend these ideas beyond matter to light. 
+Based in the [Physics Department](http://physics.otago.ac.nz) at the [University of Otago](https://www.otago.ac.nz/), our group develops theoretical and computational methods for ultracold atoms, quantum fluids of light, and open quantum systems. We work closely with experiment, using quantum field theory, quantum optics, and numerical modelling to understand how collective quantum behaviour emerges, evolves, and breaks down.
 
-Together, these systems open powerful new pathways for probing, engineering, and exploiting quantum many-body physics.
+Our current research spans quantum turbulence, finite-temperature superfluid dynamics, dissipative quantum systems, and light--matter platforms for exploring many-body physics.
 <br>
 
 <!-- Carousel -->
@@ -17,12 +17,9 @@ Together, these systems open powerful new pathways for probing, engineering, and
     {% include carousel.html %}
 </div>
 
-We are a quantum theory group in the [Physics Department](http://physics.otago.ac.nz) of the [University of Otago](https://www.otago.ac.nz/). We are part of the wider [Atomic, Molecular, and Optical Quantum Theory](https://amoqt.otago.ac.nz) group. <br>
+We are part of the wider [Atomic, Molecular, and Optical Quantum Theory](https://amoqt.otago.ac.nz) group at Otago.
 
-We use methods of quantum field theory, quantum optics, and computational physics to study quantum many-body phenomena including quantum fluid dynamics, dissipative quantum systems, and quantum entanglement, with a keen eye on experimental developments.
-
-**Job Offers:**
-We are looking for talented new PhD and Masters students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**Opportunities:** We welcome enquiries from motivated PhD, Master's, and Honours students interested in quantum fluids, ultracold atoms, quantum optics, and computational many-body physics. [See current openings]({{ site.url }}{{ site.baseurl }}/openings).
 
 
 <!-- {% for project in site.projects %}

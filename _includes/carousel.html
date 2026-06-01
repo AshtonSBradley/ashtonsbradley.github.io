@@ -1,7 +1,7 @@
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
 <ol class="carousel-indicators">
-  {% assign carousel_images = site.static_files | where_exp:"file",  "file.path contains '/images/rubidium/home_carousel/'" %}
+  {% assign carousel_images = site.static_files | where_exp:"file",  "file.path contains '/images/home_carousel/'" %}
   {% for image in carousel_images %}
     <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
   {% endfor %}
@@ -28,5 +28,4 @@
 </a>
 
 </div>
-
 
