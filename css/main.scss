@@ -443,6 +443,12 @@ a.a-name:hover{
 }
 
 // Research page
+article.research .post-content > p:first-of-type::first-letter {
+  font-size: 2.5rem;
+  line-height: 1rem;
+  color: var(--link-color);
+}
+
   article.research h2{
     font-variant: small-caps
   }
