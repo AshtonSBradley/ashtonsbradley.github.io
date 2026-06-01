@@ -1,7 +1,7 @@
 ---
 title: Quantum Fluid Dynamics
 slug: quantum-fluid
-abstract: Superfluids flow without resistance—one of the most striking manifestations of quantum many-body physics. Push them hard enough, however, and this perfection breaks—quantized vortices nucleate, a form of quantum viscosity. Driven Bose–Einstein condensates support both compressible phonons and incompressible vortices, providing distinct channels for energy transport in turbulent motion. We investigate turbulence in quantum fluids, spanning dilute-gas BECs and analogue systems such as quantum fluids of light.
+abstract: Quantum fluids combine wave motion with topological defects such as quantized vortices. We study how energy moves through these systems, from phonons and vortex motion to turbulent cascades in Bose-Einstein condensates and quantum fluids of light.
 
 image: turbulence.jpeg
 team:
@@ -23,10 +23,17 @@ publications:
 
 
 ---
-Many-body quantum dynamics hinges on the quantum statistics of the particles. Identical bosons tend to occupy the same quantum state, leading to large scale quantum phenomena with sometimes classical features. Prominant examples are the laser and the Bose-Einstein condensate. Emergent collective behavior in many-body quantum systems leads naturally to exploring the the quantum nature of fluids: what is a quantum fluid? What aspects of quantum fluid dynamics are uniquely quantum in origin, and what is instead universal to much wider class fluids?
+Many-body quantum dynamics hinges on the quantum statistics of the particles. Identical bosons tend to occupy the same quantum state, leading to large scale quantum phenomena with sometimes classical features. Prominent examples are the laser and the Bose-Einstein condensate. Emergent collective behavior in many-body quantum systems leads naturally to exploring the quantum nature of fluids: what is a quantum fluid? What aspects of quantum fluid dynamics are uniquely quantum in origin, and what is instead universal to a wider class of fluids?
+
+## Current Directions
+
+- Energy transport and cascade physics in compressible quantum fluids
+- Vortex nucleation, clustering, and decay
+- Spectral analysis for separating phonon, vortex, and quantum-pressure contributions
+- Connections between ultracold-gas experiments and quantum fluids of light
 
 ## Vortices 
-Since their discovery, quantum vortices have provided key evidence for superfluidity. Onsager saw that the existence of a superfluid order parameter $$\psi=\sqrt{\rho}e^{i\theta}$$ constrains quantum vortices in a BEC to integer circulation, $$n$$, around any simply connected closed contour. The velocity originates from the quantum quantum phase $$\mathbf{v}=\hbar \nabla \theta/m$$, and so the circulation is quantized:
+Since their discovery, quantum vortices have provided key evidence for superfluidity. Onsager saw that the existence of a superfluid order parameter $$\psi=\sqrt{\rho}e^{i\theta}$$ constrains quantum vortices in a BEC to integer circulation, $$n$$, around any simply connected closed contour. The velocity originates from the quantum phase $$\mathbf{v}=\hbar \nabla \theta/m$$, and so the circulation is quantized:
 
 $$\oint \mathbf{v}\cdot d\mathbf{l}=n\frac{h}{m}.$$
 

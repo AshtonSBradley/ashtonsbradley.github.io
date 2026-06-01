@@ -2,15 +2,15 @@
 
 <article class="card-article">
    <div class="article-wrapper">
-    <a href=" {{post.url}}" ><figure class="article-fig">
-        <img src="/assets/images/research/{{post.image }}" alt="" />
+    <a href="{{ post.url }}" ><figure class="article-fig">
+        <img src="/assets/images/research/{{ post.image }}" alt="{{ post.title }}" />
     </figure>
   </a> 
    
       <div class="article-body">
        <h2>{{ post.title }}</h2>
       <p>{{ post.abstract}}</p>
-      <a href=" {{post.url}}" class="read-more">
+      <a href="{{ post.url }}" class="read-more">
         Read more
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -29,4 +29,3 @@
   </div>
 
 </article>
-

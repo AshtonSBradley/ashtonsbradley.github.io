@@ -1,7 +1,7 @@
 ---
 title: Open Quantum Systems
 slug: open-quantum-systems
-abstract: Real quantum systems never evolve in isolation—coupling to the environment drives decoherence and dissipation. In many-body systems, multiple decay channels set the lifetime of superfluid excitations such as vortices and solitons. These robust structures can also emerge spontaneously during the phase transition to Bose–Einstein condensation—a process naturally captured by open-systems theory. We investigate dissipative dynamics in excited quantum fluids and identify the fundamental limits of superfluidity.
+abstract: Real quantum fluids are never perfectly isolated. We study how thermal noise, dissipation, and reservoir coupling shape phase transitions, vortex decay, soliton dynamics, and the practical limits of superfluid behaviour.
 image: oqsys.jpeg
 team:
   - Ashton Bradley
@@ -20,14 +20,21 @@ publications:
   - https://doi.org/10.1080/00018730802564254
   - https://doi.org/10.1103/physreva.77.033616
 ---
-Ideal superfulids offer insight into emergent many-body dynamics. But what of real superfluids encountered in the laboratory? Experiments are often relatively hot and noisy, even for ultracold quantum gases that operate at some of the coldest temperatures ever created. The regime of finite-temperature superfluids poses interesting challenges for theoretical description. 
+Ideal superfluids offer insight into emergent many-body dynamics. But what of real superfluids encountered in the laboratory? Experiments are often relatively hot and noisy, even for ultracold quantum gases that operate at some of the coldest temperatures ever created. The regime of finite-temperature superfluids poses interesting challenges for theoretical description. 
 
 Quantum coherences, dissipation, and thermal noise all play a role in dynamics of phase transitions, and the dissipation of elementary excitations such as vortices and solitons.
+
+## Current Directions
+
+- Stochastic and phase-space methods for finite-temperature dynamics
+- Reservoir coupling during Bose-Einstein condensation
+- Dissipative decay of vortices, solitons, and other superfluid excitations
+- Energy damping and the limits of experimentally realised superfluidity
 
 ## Hot Matter Waves
 Near the BEC phase transition the system contains many highly occupied modes driven by thermal noise. Open systems theory allows tracing over thermalized high-energy states that form a reservoir of particles and energy in contact with low-energy states that make up the condensate and other partially coherent modes.
 
-C-Field theory adapts Wigner phase space methods of quantum optics to the description of ultracold atom systems. It allows the formalation of a generalized stochastic Gross-Pitaevskii equation to describe the phase transition and the lifetime and decay of BEC excitations.
+C-field theory adapts Wigner phase-space methods of quantum optics to the description of ultracold atom systems. It allows the formulation of a generalized stochastic Gross-Pitaevskii equation to describe the phase transition and the lifetime and decay of BEC excitations.
 
 ## Dissipative Dynamics
-Decay can be driven by any mechanism that seeks to remove energy or angular momentum from the low-energy region of the c-field. Vortices and solitons are excellent test systems for c-field theory. Recent work has focused on the role of energy damping. We are exploring a number of quasi-eqiulibrium scenarios where energy damping turns out to be the dominant dissipative pathway. For quantum vortex decay the energy damping mechamism predictions are in close agreement with existing experimental data.
+Decay can be driven by any mechanism that seeks to remove energy or angular momentum from the low-energy region of the c-field. Vortices and solitons are excellent test systems for c-field theory. Recent work has focused on the role of energy damping. We are exploring a number of quasi-equilibrium scenarios where energy damping turns out to be the dominant dissipative pathway. For quantum vortex decay the energy damping mechanism predictions are in close agreement with existing experimental data.
