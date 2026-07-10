@@ -12,7 +12,7 @@ permalink: /code/
 </a>
 </div>
 
-Julia is a purpose-built language for computational Physics. Our group has been using Julia for research since 2016, and Julia v0.4. The language has been mature and stable since v1.0 was released in 2018, and has a capable and diverse package ecosystem.
+Julia is an ideal language for computational Physics. Our group has been using Julia for research since 2016 (Julia v0.4). The language has been mature and stable since v1.0 was released in 2018, and has a capable and diverse package ecosystem.
 
 Our aim is to support the research community by developing high quality Julia packages.
 
