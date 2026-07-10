@@ -6,6 +6,10 @@ permalink: /code/
 ---
 
 # Code
+<a class="julia-logo-link" href="https://julialang.org/" aria-label="Julia programming language website">
+  <img class="julia-logo" src="{{ '/assets/images/logos/julia-logo.svg' | relative_url }}" alt="Julia">
+</a>
+
 Julia is a purpose-built language for computational Physics. Our group has been using Julia for research since 2016, and Julia v0.4. The language has been mature and stable since v1.0 was released in 2018, and has a capable and diverse package ecosystem.
 
 Our aim is to support the research community by developing high quality Julia packages.
@@ -14,6 +18,26 @@ Julia repositories from the group, currently drawn from the pinned repositories 
 [Ashton Bradley's GitHub profile](https://github.com/AshtonSBradley).
 
 <style>
+  .julia-logo-link {
+    display: block;
+    width: fit-content;
+    margin: 8px auto 24px;
+    transition: opacity 0.2s ease-in-out;
+  }
+
+  .julia-logo-link:hover,
+  .julia-logo-link:focus {
+    opacity: 0.82;
+  }
+
+  .julia-logo {
+    display: block;
+    width: 220px;
+    max-width: 70vw;
+    height: auto;
+    margin: 0;
+  }
+
   .code-repos {
     display: grid;
     grid-template-columns: 1fr;
