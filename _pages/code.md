@@ -6,7 +6,7 @@ permalink: /code/
 ---
 
 # Code
-Julia is a purpose-built language for computational Physics. 
+Julia is a purpose-built language for computational Physics. Our group has been using Julia for research since 2016, and Julia v0.4.  
 
 Our aim is to support the research community by developing high quality Julia packages.
 
