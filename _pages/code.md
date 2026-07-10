@@ -6,6 +6,9 @@ permalink: /code/
 ---
 
 # Code
+Julia is a purpose-built language for computational Physics. 
+
+Our aim is to support the research community by developing high quality Julia packages.
 
 Julia repositories from the group, currently drawn from the pinned repositories on
 [Ashton Bradley's GitHub profile](https://github.com/AshtonSBradley).
