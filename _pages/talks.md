@@ -9,7 +9,7 @@ permalink: /talks/
 
 <ul class="talk-list">
   <li>
-    <a href="{{ '/assets/pdf/talks/TurbulencePadova_July2026.pdf' | relative_url }}">Regimes of steady-state turbulence in a quantum gas</a>
+    <a href="{{ '/assets/pdf/talks/TurbulencePadova2026.pdf' | relative_url }}" target="_blank" rel="noopener">Regimes of steady-state turbulence in a quantum gas</a>
     <span>Ashton Bradley, University of Padova, 20 July 2026</span>
   </li>
 </ul>
