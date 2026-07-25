@@ -12,6 +12,10 @@ permalink: /talks/
     <a href="{{ '/assets/pdf/talks/TurbulencePadova2026.pdf' | relative_url }}" target="_blank" rel="noopener">Regimes of steady-state turbulence in a quantum gas</a>
     <span>Ashton Bradley, University of Padova, 20 July 2026</span>
   </li>
+  <li>
+    <a href="{{ '/assets/pdf/talks/OpenQuantumFluidsSigmaPhi2026.pdf' | relative_url }}" target="_blank" rel="noopener">Nonequilibrium Field Theory of Open Quantum Fluids</a>
+    <span>Ashton Bradley, SigmaPhi2026 Statistical Physics Conference, Chania, Crete, 4 July 2026</span>
+  </li>
 </ul>
 
 <style>
