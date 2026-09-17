@@ -1,0 +1,11 @@
+main{grid-template-columns:minmax(0,1fr) 336px}.mark{white-space:nowrap;font-size:16px}.intro,.explanation,details p{font-size:14px;line-height:1.55}.explanation{color:#57707b;margin:10px 0 0}.controls label.stack{display:block}.stack select{display:block;width:100%;margin-top:10px;padding:11px 8px;border:1px solid #a9bfc3;border-radius:6px;background:white;color:#183541;font:inherit}.destinations small{font-size:12px}.maplinks button{font-size:14px}select:focus-visible{outline:3px solid #10a4ba;outline-offset:3px}[hidden]{display:none!important}#map{background:#e7eeee}.controls input:disabled{opacity:.4}@media(max-width:850px){main{grid-template-columns:1fr}.identity{min-width:280px}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+.lift-panel button,.seating-panel button{border:1px solid #a9bfc3;border-radius:6px;background:#edf1f1;color:#183541;padding:10px;font-size:14px;min-height:44px}
+.lift-panel .lift-primary,.seating-panel button.selected{background:#d5eee7;border-color:#488b82}
+.lift-primary,.seating-actions button{width:100%}.seating-actions{display:grid;gap:8px}
+.lift-pad{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-top:14px}.lift-pad button{touch-action:none;user-select:none}.lift-pad button:active{background:#ace5d9}
+.lift-actions{display:flex;gap:5px;flex-wrap:wrap}.lift-actions button{flex:1;white-space:nowrap}
+#lift-status{font-size:14px;line-height:1.5;padding:10px;background:#e0f0eb;border-left:3px solid #17756a}#lift-status.blocked{background:#fce9e3;border-color:#bd3929;color:#7f291e}
+#lift-readout{display:block;font-size:14px;line-height:1.6;white-space:pre-line;font-variant-numeric:tabular-nums}#lift-map{display:block;width:100%;height:auto;margin:12px 0}
+.lift-panel input[type=number]{width:78px;min-width:0;padding:6px;border:1px solid #a9bfc3;border-radius:4px;background:white;color:#183541;font-size:16px}.lift-panel details{margin-top:16px;padding-top:14px}
+@media(max-width:850px){.lift-panel,.seating-panel{grid-column:1/-1}.lift-pad{grid-template-columns:repeat(3,minmax(0,1fr))}#lift-map{max-width:560px}.seating-actions{grid-template-columns:1fr 1fr}}
+@media(max-width:400px){.lift-pad,.seating-actions{grid-template-columns:1fr 1fr}}

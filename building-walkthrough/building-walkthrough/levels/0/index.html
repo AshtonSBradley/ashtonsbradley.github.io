@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#122c39">
+<title>Ground Floor Laboratories · Walkthrough</title>
+<meta name="description" content="Explore the ground-floor laboratories and main foyer. Compare the retained entrance route with an additional direct foyer-to-G.C entrance and push-button glass lobby doors.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23122c39'/%3E%3Cpath d='M6 6h20v8H6zM6 19h20v7H6z' fill='none' stroke='%23ace5d9' stroke-width='2'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="./style.css?v=20260917-compact-map">
+<link rel="stylesheet" href="../../floor-nav.css"><script src="../../floor-nav.js?v=20260917-merged" defer></script></head>
+<body><div id="ground-labs-tour">
+<header>
+  <div class="identity"><span class="mark">G</span><div><h1>Ground Floor Laboratories</h1><p>Main foyer · Laboratories &amp; hallways · 3 m ceilings</p></div></div>
+  <nav class="floor-selector" aria-label="Choose floor"><a href="../../levels/0/?v=20260917-current-menu" aria-current="page">Level 0</a><a href="../../?v=20260917-current-menu">Level 1</a><a href="../../levels/2/?v=20260917-current-menu">Level 2</a><a href="../../levels/3/?v=20260917-current-menu">Level 3</a></nav>
+  <div class="modes" aria-label="Camera mode"><button type="button" data-action="overview" class="active" aria-pressed="true">Explore model</button><button type="button" data-action="walk" aria-pressed="false">Walk inside</button></div>
+  <button type="button" data-action="fullscreen" class="subtle">Full screen ↗</button>
+</header>
+<main>
+  <section class="lab-viewport" aria-label="Interactive laboratory model">
+    <canvas class="lab-scene" tabindex="0" aria-label="3D laboratory model. Drag to look; use W A S D to walk inside."></canvas>
+    <div class="lab-loading" role="status">Preparing the laboratories…</div>
+    <div class="viewtag"><span class="lab-view-label">Ground Floor Laboratories</span><span class="lab-eye">Orbit view</span></div>
+    <div class="lab-help">Drag to orbit · scroll to zoom</div>
+    <div class="lab-move" hidden aria-label="Walking controls"><button type="button" data-move="forward" aria-label="Walk forward">↑</button><div><button type="button" data-move="left" aria-label="Step left">←</button><button type="button" data-move="back" aria-label="Walk backward">↓</button><button type="button" data-move="right" aria-label="Step right">→</button></div></div>
+  </section>
+  <aside>
+    <section class="mapsection">
+      <h2>You are here <span>Click to move</span></h2>
+      <canvas id="map" width="680" height="400" tabindex="0" aria-label="Ground-floor map. Click a clear floor area to move there, or use the room buttons below. Press Enter to enter the foyer."></canvas>
+      <div class="maplinks" aria-label="Map destinations"><button type="button" data-map-stop="0">Foyer</button><button type="button" data-map-stop="3">Lift lobby</button><button type="button" data-map-stop="6">West lab</button><button type="button" data-map-stop="8">East lab</button><button type="button" data-map-stop="16">South lab</button><button type="button" data-map-stop="4">Hallway</button></div>
+      <p class="map-status" role="status">Click open floor to enter. The arrow shows your position and viewing direction.</p>
+    </section>
+    <section class="entrance-options">
+      <h2>Current entrance design</h2>
+      <div class="option-buttons" aria-label="Entrance arrangement"><button type="button" data-option="existing" aria-pressed="true">Existing route</button><button type="button" data-option="proposed" aria-pressed="false">Current design</button></div>
+      <p class="option-caption intro" aria-live="polite">Existing entrance retained. Reach G.C through the lift lobby.</p>
+      <div class="access-controls" hidden>
+        <p>Double foyer doors · push-button lobby doors</p>
+        <button type="button" data-open-door="direct">Open double foyer doors</button>
+        <button type="button" data-open-door="north">Open north lobby door</button>
+        <button type="button" data-open-door="south">Open south lobby door</button>
+        <button type="button" data-action="close-access">Close doors</button>
+        <p class="door-status" role="status">Press a button here, or click a gold push pad in the model.</p>
+      </div>
+    </section>
+    <section>
+      <h2>Follow the student route</h2>
+      <p class="intro">Start in the main foyer. Compare the route into G.C, then explore the lift lobby and three laboratories.</p>
+      <div class="tour-controls"><button type="button" data-action="previous" aria-label="Previous stop">←</button><button type="button" data-action="play" class="primary" aria-pressed="false">Play tour</button><button type="button" data-action="next">Start walkthrough</button></div>
+      <div class="tour-state" aria-live="polite"><span class="lab-count">Overview</span><p class="lab-caption">Three laboratories, the lift lobby, and north and south hallways.</p></div>
+      <nav class="destinations" aria-label="Walkthrough viewpoints"></nav>
+    </section>
+    <section class="controls"><h2>Model view</h2>
+      <label><span>Fully seated</span><input type="checkbox" id="fully-seated" checked></label><p id="seating-note"></p><label><span>Electric lighting</span><input type="checkbox" id="electric-lighting" checked></label><label><span>Show ceiling</span><input type="checkbox" id="ceiling"></label>
+      <label><span>Cut away outer walls</span><input type="checkbox" id="cutaway" checked></label>
+      <label><span>Open hallway doors</span><input type="checkbox" id="hall-doors" checked></label>
+    </section>
+    <p><a href="../../plans/level_0.pdf" target="_blank">Open current Level 0 plan</a> · <a href="../../plans/current_walkthrough_plans.pdf" target="_blank">All plan sheets</a></p><details><summary>Dimensions &amp; assumptions</summary>
+      <p>Ceiling height is 3.0 m. The coordinated design includes 36 benches / 144 illustrative places, revised G.04 tables, demonstrator and displays. G.04 south-wall low storage is removed. The added foyer follows the 17 September plan; its cropped western edge remains open and undefined. Toilet interiors are context only. G.01 is labelled female and G.02 male, as corrected. The drinking fountain sits at the former G.01a text position.</p>
+      <p>The west stairs rise east toward the lift lobby to an intermediate landing half a floor above the foyer, aligned with the display-cabinet wall. You can walk up and down the flight. The model uses a 1.5 m rise with 10 risers.</p>
+      <p>Both options retain the existing entrance. The current design has a full-width pair of glass doors beside G.02 into G.C, opening outward west into the main foyer. The 3.127 m model opening has two equal leaves of approximately 1.563 m; the entrance operator is to be confirmed. Both current lift-lobby doors are matching single glass leaves opening inward into the lobby. In the proposed option, push-button mechanical operators open the hinged leaves; they do not slide.</p>
+      <p>Gold lobby push pads are provided on both sides, centred 1.0 m above the floor and offset from the door openings. Use the model controls to preview the outward-opening entrance doors. Pressing a lobby pad opens and holds that door; use “Close doors” to reset. The guided tour operates the doors for the route. These are access design intentions, not verified accessibility, fire-egress or structural compliance.</p>
+      <p>The solid south-hallway door with its narrow vision panel is retained. The model uses approximately 1 × 2 m benches and 1.65 m eye height. Furniture heights, finishes and lighting are illustrative. This is a registered concept model, not a surveyed dimensional model.</p>
+    </details>
+  </aside>
+</main>
+</div><script type="module" src="./app.js"></script><noscript>Enable JavaScript to explore the laboratories.</noscript></body>
+</html>

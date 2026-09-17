@@ -6,6 +6,7 @@ permalink: /code/
 ---
 
 # Code
+
 <div class="julia-logo-block" markdown="0">
 <a class="julia-logo-link" href="https://julialang.org/" aria-label="Julia programming language website">
   <img class="julia-logo" src="{{ '/assets/images/logos/julia-logo.svg' | relative_url }}" alt="Julia">
@@ -136,3 +137,12 @@ Julia repositories from the group, currently drawn from the pinned repositories 
 </article>
 {% endfor %}
 </section>
+
+## Science III building changes
+
+Explore the proposed Science III changes in an interactive building walkthrough, with models of Levels 0–3 and links to the current floor plans.
+
+<ul>
+  <li><a href="{{ '/building-walkthrough/building-walkthrough/levels/0/' | relative_url }}" target="_blank" rel="noopener">Open the Science III building walkthrough (new tab)</a></li>
+  <li><a href="{{ '/building-walkthrough/draftplans/draft_plans.pdf' | relative_url }}" target="_blank" rel="noopener">View the Science III draft plans (PDF, new tab)</a></li>
+</ul>

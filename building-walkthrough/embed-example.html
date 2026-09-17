@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore the proposed building layout across four floors.">
+  <title>Explore the building</title>
+  <link rel="icon" href="data:,">
+  <style>
+    *{box-sizing:border-box}
+    body{margin:0;background:#f4f6f5;color:#193842;font:16px/1.5 system-ui,sans-serif}
+    main{max-width:1440px;margin:auto;padding:28px 24px 40px}
+    h1{font-size:clamp(26px,3vw,36px);line-height:1.2;margin:0 0 10px;font-weight:600}
+    .intro{margin:0 0 20px;color:#4c656d;max-width:840px}
+    iframe{background:#e5ebeb;border-radius:10px;box-shadow:0 2px 16px #19384215}
+    a{color:#11685f;text-underline-offset:3px}
+    .plans{font-size:14px;color:#4c656d}
+    @media(max-width:600px){main{padding:20px 12px}iframe{border-radius:6px}}
+  </style>
+</head>
+<body><main>
+  <h1>Explore the building</h1>
+  <p class="intro">Choose a floor, explore the model, or walk through the rooms. Click inside the view to use the walking controls. For a larger view, open the walkthrough in a new tab.</p>
+<iframe
+  src="./building-walkthrough/levels/0/"
+  title="Explore the building — interactive walkthrough"
+  style="display:block;width:100%;height:80vh;min-height:640px;border:0;"
+  loading="lazy"
+  allow="fullscreen"
+  allowfullscreen>
+</iframe>
+<p><a href="./building-walkthrough/levels/0/" target="_blank" rel="noopener">Open the walkthrough in a new tab</a></p>
+
+  <p class="plans">Prefer drawings? <a href="./building-walkthrough/plans/current_walkthrough_plans.pdf" target="_blank" rel="noopener">View all floor plans</a>. This is a concept design; dimensions and assumptions are described within the walkthrough.</p>
+</main></body></html>
