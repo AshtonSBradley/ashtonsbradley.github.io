@@ -115,6 +115,14 @@ Julia repositories from the group, currently drawn from the pinned repositories 
     flex: 1;
     margin-bottom: 16px;
   }
+
+  .science-iii-preview {
+    display: block;
+    width: 100%;
+    max-width: 980px;
+    height: auto;
+    margin: 24px auto 40px;
+  }
 </style>
 
 <section class="code-repos" markdown="0">
@@ -146,3 +154,5 @@ Explore the proposed Science III changes in an interactive building walkthrough,
   <li><a href="{{ '/building-walkthrough/building-walkthrough/levels/0/' | relative_url }}" target="_blank" rel="noopener">Open the Science III building walkthrough (new tab)</a></li>
   <li><a href="{{ '/building-walkthrough/draftplans/draft_plans.pdf' | relative_url }}" target="_blank" rel="noopener">View the Science III draft plans (PDF, new tab)</a></li>
 </ul>
+
+<img class="science-iii-preview" src="{{ '/assets/images/code/science-iii-walkthrough.png' | relative_url }}" alt="Science III Level 1 model showing the proposed laboratories and tiered teaching room" width="1436" height="954" loading="lazy" decoding="async">
