@@ -24,7 +24,7 @@ googlescholar_username: fIjUjckAAAAJ&hl
 
 # About Section
 about_title: Short Bio
-about_profile_image: assets/images/members/Ashton.jpeg
+about_profile_image: assets/images/members/Ashton.png
 about_content: | # this will include new lines to allow paragraphs
   After completing a MSc at the University of Auckland supervisded by Joe Hope and Matthew Collett in 2001, I started PhD study in the group of Crispin Gardiner at the Victoria University of Wellington, finishing in 2005.
 
