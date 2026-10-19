@@ -1,4 +1,8 @@
 PhD_theses:
+  - name: "Nils Krause"
+    year: 2026
+    title: "Decay mechanisms in the open quantum system theory of Bose gases"
+    link: "https://hdl.handle.net/10523/52867"
   - name: "Zain Mehdi"
     year: 2024
     title: "Superfluid Dissipation and Feedback Cooling in Ultracold Atomic Gases (ANU, Primary Advisor: Stuart Szigeti)"
@@ -17,6 +21,10 @@ PhD_theses:
     link: "https://hdl.handle.net/10523/5460"
 
 internships:
+  - year: 2025
+    theses:
+      - name: "Cedric Qi (Hons)"
+        title: "Ergodicity Blocking in 1D Harmonic Trap"
   - year: 2025
     theses:
       - name: "Cole Hickey (Hons)"
