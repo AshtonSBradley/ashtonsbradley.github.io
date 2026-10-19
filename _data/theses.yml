@@ -25,12 +25,8 @@ internships:
     theses:
       - name: "Cedric Qi (Hons)"
         title: "Ergodicity Blocking in 1D Harmonic Trap"
-  - year: 2025
-    theses:
       - name: "Cole Hickey (Hons)"
         title: "Investigation of intracavity superradiance"
-  - year: 2025
-    theses:
       - name: "Cassie Dong (MSc)"
         title: "Scaling dynamics of quantum turbulence in a box trap"
   - year: 2024
@@ -38,8 +34,6 @@ internships:
       - name: "Luc Hackner (Hons)"
         title: "Quantum Phase-Space Analysis of Dual Cavity with Negative Radiation Pressure"
         # link: "Handle: https://hdl.handle.net/10523/12650"
-  - year: 2024
-    theses:
       - name: "Thomas Fischer (MSc)"
         title: "Regimes of Quantum Turbulence in a Box-Trap"
         link: "https://hdl.handle.net/10523/42043"
@@ -68,8 +62,6 @@ internships:
       - name: "Zaki Atayee (Hons)"
         title: "Kohn Mode Damping in a Bose-Einstein Condensate"
         # link: "https://hdl.handle.net/10523/9543"
-  - year: 2016
-    theses:
       - name: "Michael Cawte (Hons)"
         title: "Vortex Dynamics and Spectra Fluctuations in a Superfluid Disk"
         # link: "https://hdl.handle.net/10523/9543"
@@ -83,13 +75,9 @@ internships:
       - name: "Matt Reeves (MSc)"
         title: "Inverse Energy Cascade in Two-Dimensional Quantum Turbulence"
         link: "https://hdl.handle.net/10523/4526"
-  - year: 2013
-    theses:
       - name: "Rob McDonald (Hons)"
         title: "Decay of Persistent Current in a Two-Dimensional Superfluid"
         # link: "https://hdl.handle.net/10523/2538"
-  - year: 2013
-    theses:
       - name: "Malcolm Morrison (Hons)"
         title: "A Quantum Kuramoto Model"
         # link: "https://hdl.handle.net/10523/2538"
@@ -98,8 +86,6 @@ internships:
       - name: "Sam Rooney (MSc)"
         title: "C-field description of the quasi-equilibrium Bose gas: Persistent currents and kelvon-induced vortex decay"
         link: "https://hdl.handle.net/10523/2538"
-  - year: 2011
-    theses:
       - name: "Matt Reeves (Hons)"
         title: "Two-Dimensional Quantum Turbulence in Stirred Bose-Einstein Condensates"
         link: "https://doi.org/10.1103/physreva.86.053621"
