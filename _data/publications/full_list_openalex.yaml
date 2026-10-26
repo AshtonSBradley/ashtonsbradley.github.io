@@ -1,3 +1,32 @@
+- title: Microscopic theory of drag in a Bose condensate interacting with a moving reservoir
+  authors:
+  - name: Hassan Alnatah
+    orcid: null
+  - name: Shuang Liang
+    orcid: null
+  - name: Shouvik Mukherjee
+    orcid: null
+  - name: Qi Yao
+    orcid: null
+  - name: Ashton S. Bradley
+    orcid: https://orcid.org/0000-0002-3027-3195
+  - name: David W. Snoke
+    orcid: null
+  link:
+    url: https://doi.org/10.1103/lhzw-fyss
+    display: Phys. Rev. B 114 19 (2026).
+  doi: https://doi.org/10.1103/lhzw-fyss
+  is_oa: true
+  oa_url: https://arxiv.org/abs/2608.27898
+  publication_year: 2026
+  journal: Physical Review B
+  journal_abbreviation: ''
+  biblio:
+    volume: '114'
+    issue: '19'
+    first_page: '194514'
+    last_page: null
+
 - title: Evaporative damping in open system theory of Bose-Einstein condensates
   authors:
   - name: Nils A. Krause
