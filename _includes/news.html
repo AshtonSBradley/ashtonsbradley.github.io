@@ -4,7 +4,7 @@
 
     {% assign sorted_articles = site.news | sort: 'date' | reverse %}
     <ul class="no-bullet news-sidebar-list">
-    {% for article in sorted_articles limit: 3 %}
+    {% for article in sorted_articles limit: 4 %}
 
         <li class="news-sidebar-item">
             {% if article.image %}
@@ -19,11 +19,13 @@
             </a>
             {% endif %}
             <time class="news-sidebar-date" datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%B %d, %Y" }}</time>
-            <div class="news-sidebar-title">{{ article.title }}</div>
-            <a class="btn-home news-sidebar-more" href="{{ article.url | relative_url }}">
-                <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
-                Read more
-            </a>
+            <div class="news-sidebar-content">
+                <div class="news-sidebar-title">{{ article.title }}</div>
+                <a class="btn-home news-sidebar-more" href="{{ article.url | relative_url }}">
+                    <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                    Read more
+                </a>
+            </div>
         </li>
     {% endfor %}
     </ul>

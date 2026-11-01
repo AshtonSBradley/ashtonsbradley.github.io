@@ -1,7 +1,7 @@
 document.querySelectorAll('.news-sidebar-image').forEach((image) => {
   const setOrientation = () => {
-    image.classList.toggle(
-      'news-sidebar-image--landscape',
+    image.closest('.news-sidebar-item').classList.toggle(
+      'news-sidebar-item--landscape',
       image.naturalWidth > image.naturalHeight
     );
   };
