@@ -4,7 +4,7 @@
 
     {% assign sorted_articles = site.news | sort: 'date' | reverse %}
     <ul class="no-bullet news-sidebar-list">
-    {% for article in sorted_articles limit: 6 %}
+    {% for article in sorted_articles limit: 3 %}
 
         <li class="news-sidebar-item">
             {% if article.image %}
