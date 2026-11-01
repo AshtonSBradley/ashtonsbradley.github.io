@@ -181,9 +181,20 @@ p.byline {
   font-size: 1.4rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 991px) {
   .news-archive-item {
+    grid-template-columns: minmax(0, 1fr);
     gap: 16px;
+  }
+
+  .news-archive-image-space {
+    width: min(200px, 100%);
+    aspect-ratio: auto;
+  }
+
+  .news-archive-image {
+    height: auto;
+    max-height: 200px;
   }
 }
 
