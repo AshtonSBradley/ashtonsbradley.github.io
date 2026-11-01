@@ -228,8 +228,48 @@ def emission(name, color, strength):
     return mat
 
 
+def motion_streak_material():
+    mat = bpy.data.materials.new('Pink motion streaks | soft fading edges')
+    mat.use_nodes = True
+    nodes = mat.node_tree.nodes
+    nodes.clear()
+    links = mat.node_tree.links
+    uv = nodes.new('ShaderNodeTexCoord')
+    split = nodes.new('ShaderNodeSeparateXYZ')
+    links.new(uv.outputs['UV'], split.inputs[0])
+
+    def calc(operation, a, b=None):
+        node = nodes.new('ShaderNodeMath')
+        node.operation = operation
+        for i, value in enumerate((a, b)):
+            if value is None:
+                continue
+            if isinstance(value, (int, float)):
+                node.inputs[i].default_value = value
+            else:
+                links.new(value, node.inputs[i])
+        return node.outputs[0]
+
+    along = calc('POWER', calc('SUBTRACT', 1, split.outputs['X']), 0.7)
+    across = calc('SUBTRACT', 1, calc('ABSOLUTE', calc('SUBTRACT',
+                  calc('MULTIPLY', split.outputs['Y'], 2), 1)))
+    opacity = calc('MULTIPLY', calc('MULTIPLY', along, across), 0.9)
+    transparent = nodes.new('ShaderNodeBsdfTransparent')
+    glow = nodes.new('ShaderNodeEmission')
+    glow.inputs['Color'].default_value = (0.8, 0.075, 0.16, 1)
+    glow.inputs['Strength'].default_value = 0.9
+    mix = nodes.new('ShaderNodeMixShader')
+    links.new(opacity, mix.inputs[0])
+    links.new(transparent.outputs[0], mix.inputs[1])
+    links.new(glow.outputs[0], mix.inputs[2])
+    output = nodes.new('ShaderNodeOutputMaterial')
+    links.new(mix.outputs[0], output.inputs['Surface'])
+    return mat
+
+
 pink_particle = emission('Small pink bath particles', (1, 0.17, 0.30), 1.0)
 pink_tail = emission('Pink leftward trajectories', (0.8, 0.075, 0.16), 0.90)
+pink_streak = motion_streak_material()
 blue_particle = emission('Blue condensate particles', (0.07, 0.46, 1), 0.85)
 blue_tail = emission('Blue rightward trajectories', (0.04, 0.32, 0.9), 0.45)
 contact_pink = emission('Collision pink', (1, 0.23, 0.37), 2.0)
@@ -277,9 +317,36 @@ def curve(name, points, radius, material, coll):
     data.materials.append(material)
 
 
+def motion_streaks(trails):
+    # Camera-facing ribbons retain a broad, soft silhouette at article size.
+    vertices = []
+    faces = []
+    for head, length in trails:
+        direction = Vector((1, 0, 0))
+        view = (CAMERA_POSITION - head).normalized()
+        side = view.cross(direction).normalized()
+        width = particle_radius(head, PINK_RADIUS)
+        end = head + length * direction
+        first = len(vertices)
+        vertices.extend((head - width * side, end - 0.28 * width * side,
+                         end + 0.28 * width * side, head + width * side))
+        faces.append(tuple(first + i for i in range(4)))
+    mesh = bpy.data.meshes.new('Soft pink movement streaks')
+    mesh.from_pydata(vertices, [], faces)
+    mesh.update()
+    uv = mesh.uv_layers.new(name='Streak fade')
+    for face in mesh.polygons:
+        for index, coordinate in zip(face.loop_indices, ((0, 0), (1, 0), (1, 1), (0, 1))):
+            uv.data[index].uv = coordinate
+    obj = bpy.data.objects.new('Bath particles | broad movement streaks', mesh)
+    bath.objects.link(obj)
+    mesh.materials.append(pink_streak)
+
+
 # More numerous bath particles and condensate markers. All lie within the
 # corresponding fluid envelopes; the short tails indicate opposing flow.
 contact = Vector((0.35, -0.72, 0.34))
+bath_trails = []
 for i in range(840):
     x = rng.uniform(-17, 17)
     theta = rng.uniform(0, 2 * math.pi)
@@ -291,8 +358,8 @@ for i in range(840):
         continue
     particle(f'Bath particle {i:03}', p, PINK_RADIUS, pink_particle, bath)
     length = rng.uniform(0.22, 0.44)
-    curve(f'Bath leftward tail {i:03}', [p + Vector((length * j / 10, 0, 0)) for j in range(11)],
-          0.0055, pink_tail, bath)
+    bath_trails.append((p, length))
+motion_streaks(bath_trails)
 for i in range(144):
     p = Vector((rng.uniform(-17, 17), -0.45 + rng.uniform(-0.2, 0.2), rng.uniform(-0.50, 0.50)))
     if (p - contact).length < 0.6:
