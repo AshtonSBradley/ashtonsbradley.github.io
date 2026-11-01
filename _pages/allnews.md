@@ -30,6 +30,7 @@ permalink: /allnews/
     </li>
 {% endfor %}
 </ul>
+<script src="{{ '/js/news.js' | relative_url }}" defer></script>
 
     
 {% for article in site.data.news %}

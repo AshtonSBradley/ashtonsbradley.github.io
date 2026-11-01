@@ -190,11 +190,20 @@ p.byline {
   .news-archive-image-space {
     width: min(200px, 100%);
     aspect-ratio: auto;
+    justify-self: center;
   }
 
   .news-archive-image {
     height: auto;
     max-height: 200px;
+  }
+
+  .news-archive-item--landscape .news-archive-image-space {
+    width: 100%;
+  }
+
+  .news-archive-item--landscape .news-archive-image {
+    max-height: none;
   }
 }
 
