@@ -6,6 +6,7 @@ permalink: /news/moving-reservoir-drag/
 date: 2026-11-01
 published: true
 image: moving-reservoir-tubes.png
+image_version: "772d296de075"
 image_placement: hero
 image_alt: A blue condensate flows through a surrounding pink reservoir, with larger blue particles and smaller pink particles tracing opposing currents.
 image_caption: "A condensate (blue) within a moving reservoir (pink). Scattering transfers momentum between the two fluids, changing the condensate flow. Schematic illustration."

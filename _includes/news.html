@@ -11,7 +11,7 @@
             <a href="{{ article.url | relative_url }}" class="news-sidebar-image-link">
                 <img
                     class="news-sidebar-image"
-                    src="{{ '/assets/images/news/' | append: article.image | relative_url }}"
+                    src="{{ '/assets/images/news/' | append: article.image | relative_url }}{% if article.image_version %}?v={{ article.image_version | url_encode }}{% endif %}"
                     alt="{{ article.image_alt | default: article.title | escape }}"
                     loading="lazy"
                     decoding="async"

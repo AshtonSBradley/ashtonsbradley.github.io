@@ -13,7 +13,7 @@ permalink: /allnews/
 {% for article in sorted_articles%}
     <li class="news-archive-item">
         <a class="news-archive-image-space" href="{{ article.url | relative_url }}">
-            <img class="news-archive-image" src="{{ '/assets/images/news/' | append: article.image | relative_url }}" alt="{{ article.image_alt | default: article.title | escape }}">
+            <img class="news-archive-image" src="{{ '/assets/images/news/' | append: article.image | relative_url }}{% if article.image_version %}?v={{ article.image_version | url_encode }}{% endif %}" alt="{{ article.image_alt | default: article.title | escape }}">
         </a>
         <div class="news-archive-content">
             <time class="news-archive-date" datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%B %d, %Y" }}</time>

@@ -21,7 +21,7 @@ layout: default
     {% if page.image_placement == 'hero' %}
     <figure class="post-hero-image">
       <img
-        src="{{ '/assets/images/news/' | append: page.image | relative_url }}"
+        src="{{ '/assets/images/news/' | append: page.image | relative_url }}{% if page.image_version %}?v={{ page.image_version | url_encode }}{% endif %}"
         alt="{{ page.image_alt | escape }}"
         width="2560"
         height="1440"
@@ -34,7 +34,7 @@ layout: default
       {% unless page.image_placement == 'hero' %}
       <div class="post-image">
         <img
-          src="/assets/images/news/{{ page.image }}"
+          src="{{ '/assets/images/news/' | append: page.image | relative_url }}{% if page.image_version %}?v={{ page.image_version | url_encode }}{% endif %}"
           alt="{{ page.image_alt | default: page.title | escape }}"
         />
       </div>
