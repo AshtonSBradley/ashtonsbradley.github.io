@@ -130,6 +130,14 @@ p.byline {
   text-align: right;
 }
 
+.news-archive-image {
+  flex: 0 0 100px;
+  align-self: flex-start;
+  width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
+
 #homeid {
   margin-top: 10px;
   margin-bottom: 40px;
