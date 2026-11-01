@@ -229,7 +229,7 @@ def emission(name, color, strength):
 
 
 pink_particle = emission('Small pink bath particles', (1, 0.17, 0.30), 1.0)
-pink_tail = emission('Pink leftward trajectories', (0.8, 0.075, 0.16), 0.40)
+pink_tail = emission('Pink leftward trajectories', (0.8, 0.075, 0.16), 0.90)
 blue_particle = emission('Blue condensate particles', (0.07, 0.46, 1), 0.85)
 blue_tail = emission('Blue rightward trajectories', (0.04, 0.32, 0.9), 0.45)
 contact_pink = emission('Collision pink', (1, 0.23, 0.37), 2.0)
@@ -290,9 +290,9 @@ for i in range(840):
     if (p - contact).length < 0.6:
         continue
     particle(f'Bath particle {i:03}', p, PINK_RADIUS, pink_particle, bath)
-    length = rng.uniform(0.14, 0.28)
+    length = rng.uniform(0.22, 0.44)
     curve(f'Bath leftward tail {i:03}', [p + Vector((length * j / 10, 0, 0)) for j in range(11)],
-          0.0027, pink_tail, bath)
+          0.0055, pink_tail, bath)
 for i in range(144):
     p = Vector((rng.uniform(-17, 17), -0.45 + rng.uniform(-0.2, 0.2), rng.uniform(-0.50, 0.50)))
     if (p - contact).length < 0.6:
