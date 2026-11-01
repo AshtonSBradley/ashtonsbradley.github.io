@@ -32,6 +32,9 @@ include:
   - .htaccess
   - _pages
 
+exclude:
+  - assets/images/news/source
+
 plugins:
   - jekyll-assets
 

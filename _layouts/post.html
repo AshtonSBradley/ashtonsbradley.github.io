@@ -13,17 +13,32 @@ layout: default
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"
         ><span itemprop="name">{{ page.author }}</span></span
       >{% endif %}
+      {% if page.published == false %} • <span class="post-draft">Draft preview</span>{% endif %}
     </p>
   </header>
 
   <div class="post-wrapper">
-    <div class="post-main">
+    {% if page.image_placement == 'hero' %}
+    <figure class="post-hero-image">
+      <img
+        src="{{ '/assets/images/news/' | append: page.image | relative_url }}"
+        alt="{{ page.image_alt | escape }}"
+        width="2560"
+        height="1440"
+      />
+      {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+    </figure>
+    {% endif %}
+    <div class="post-main{% if page.image_placement == 'hero' %} post-main--hero{% endif %}">
       <div class="post-content" itemprop="articleBody">{{ content }}</div>
+      {% unless page.image_placement == 'hero' %}
       <div class="post-image">
         <img
           src="/assets/images/news/{{ page.image }}"
+          alt="{{ page.image_alt | default: page.title | escape }}"
         />
       </div>
+      {% endunless %}
     </div>
 
     {% if page.contact %}
