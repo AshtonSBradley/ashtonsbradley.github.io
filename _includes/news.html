@@ -1,31 +1,35 @@
 
-<div class="well">
+<div class="well news-sidebar">
     <h4 class="smallcaps">News</h4>
 
     {% assign sorted_articles = site.news | sort: 'date' | reverse %}
-    <ul class="no-bullet">
+    <ul class="no-bullet news-sidebar-list">
     {% for article in sorted_articles limit: 6 %}
 
-        <li style="margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #ccc;">
-            <span style="font-weight: 500; font-size: 1.5rem;">{{ article.date | date: "%B %d, %Y" }}</span>
-            <div style="display: flex;">
-                <img src="assets/images/news/{{ article.image }}" alt="{{ article.image }}" style="width: 100px; height: auto;  margin-right: 10px;">
-                <div> 
-                <div style="font-weight: 500; font-size: 1.45rem;">{{ article.title}}</div>
-
-                <a href="{{ article.url }}">
-                    <div class="btn-home" style="margin-top: 2px; margin-bottom: 15px; font-size: 1.4rem;">
-                        <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
-                        Read more
-                    </div>
-                </a>
-                </div>
-            </div>
+        <li class="news-sidebar-item">
+            {% if article.image %}
+            <a href="{{ article.url | relative_url }}" class="news-sidebar-image-link">
+                <img
+                    class="news-sidebar-image"
+                    src="{{ '/assets/images/news/' | append: article.image | relative_url }}"
+                    alt="{{ article.image_alt | default: article.title | escape }}"
+                    loading="lazy"
+                    decoding="async"
+                />
+            </a>
+            {% endif %}
+            <time class="news-sidebar-date" datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%B %d, %Y" }}</time>
+            <div class="news-sidebar-title">{{ article.title }}</div>
+            <a class="btn-home news-sidebar-more" href="{{ article.url | relative_url }}">
+                <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                Read more
+            </a>
         </li>
     {% endfor %}
     </ul>
     
-        <h4 style="font-size: 1.7rem; text-align: right;">
-            <a href="{{ site.url }}{{ site.baseurl }}/allnews">See all news...</a>
+        <h4 class="news-sidebar-all">
+            <a href="{{ '/allnews/' | relative_url }}">See all news...</a>
         </h4>
 </div>
+<script src="{{ '/js/news.js' | relative_url }}" defer></script>
