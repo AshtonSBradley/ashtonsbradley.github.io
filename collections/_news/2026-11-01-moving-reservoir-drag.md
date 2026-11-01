@@ -8,7 +8,7 @@ published: true
 image: moving-reservoir-tubes.png
 image_placement: hero
 image_alt: A blue condensate flows through a surrounding pink reservoir, with larger blue particles and smaller pink particles tracing opposing currents.
-image_caption: "A condensate (blue) moving through a reservoir (pink). Scattering transfers momentum between the two fluids, changing the condensate flow. Schematic illustration."
+image_caption: "A condensate (blue) within a moving reservoir (pink). Scattering transfers momentum between the two fluids, changing the condensate flow. Schematic illustration."
 excerpt: Our new microscopic theory explains how a moving reservoir transfers momentum to a Bose condensate, connecting electrical control of quantum fluids of light with energy damping in atomic gases.
 ---
 
