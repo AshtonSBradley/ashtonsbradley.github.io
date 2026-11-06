@@ -20,7 +20,7 @@ permalink: /theses/
   {% endfor %}
 </ul>
 
-## Master/Hons theses
+## Master/Hons/Bachelor theses
 
 {% for year_group in site.data.theses.internships %}
 #### {{ year_group.year }}

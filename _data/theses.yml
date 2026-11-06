@@ -26,7 +26,7 @@ internships:
       - name: "Cedric Qi (Hons)"
         title: "Ergodicity Blocking in 1D Harmonic Trap"
       - name: "Cole Hickey (Hons)"
-        title: "Investigation of intracavity superradiance"
+        title: "Investigation of Intracavity Superradiance"
       - name: "Cassie Dong (MSc)"
         title: "Scaling dynamics of quantum turbulence in a box trap"
   - year: 2024
@@ -37,6 +37,12 @@ internships:
       - name: "Thomas Fischer (MSc)"
         title: "Regimes of Quantum Turbulence in a Box-Trap"
         link: "https://hdl.handle.net/10523/42043"
+      - name: "Philipp Kommer (BSc)"
+        title: "Inverse turbulent-wave cascades in a driven two-dimensional quantum gas"
+  - year: 2023
+    theses:
+      - name: "Cassie Dong (Hons)"
+        title: "Stochastic Dissipation of a Dark Soliton in a Trapped BEC"
   - year: 2022
     theses:
       - name: "Jordan Clarke (MSc)"
